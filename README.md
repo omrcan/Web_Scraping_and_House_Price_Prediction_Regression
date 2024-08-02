@@ -1,0 +1,2 @@
+# Web_Scriping_and_House_Price_Prediction_Regression
+ Data on houses for sale in Istanbul and Izmir, listed on the website emlaksitem.com, was collected using web scraping. The collected data includes various features such as price, location, number of rooms, and square footage of the properties. The data was processed through a data preprocessing stage and subsequently used in a regression model to predict the price column.
