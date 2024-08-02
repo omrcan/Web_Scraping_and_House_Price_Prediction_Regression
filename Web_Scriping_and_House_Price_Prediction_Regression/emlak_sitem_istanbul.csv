@@ -1,0 +1,424 @@
+,Aidat (TL),Banyo Sayısı,Bina Yaşı,Bir Kattaki Daire,Bulunduğu Kat,Eşyalı,Gör. Arama İle Gez.,Isıtma,Kat Sayısı,Krediye Uygun,Kullanım Durumu,Kısıtlama,Metre Karesi (Net),Oda Sayısı,Price,Site İçerisinde,Takaslı,Yapı Kullanım İzin D.,İlan No,İlan Tarihi,İlan Türü,Şehir
+0,,: 1,: 26-30,,: 3,,,: Doğalgaz (Kombi),: 3,: Hayır,: Boş,: Yok,: 95m2,: 2+1,2.600.000 TL,,: Hayır,,: 29664799,: 31 Temmuz 24,: Satılık Daire,Istanbul
+1,,: 1,: 21-25,,: Giriş Katı,,,: Kalorifer (Doğalgaz),: 6,: Hayır,: Mülk Sahibi,: Yok,: 75m2,: 2+1,1.700.000 TL,,: Hayır,,: 86903439,: 31 Temmuz 24,: Satılık Daire,Istanbul
+2,: 1702,: 1,: 5-10,,: 7,: Hayır,: Evet,: Doğalgaz (Kombi),: 12,: Evet,: Mülk Sahibi,: Yok,: 82m2,: 2+1,2.400.000 TL,: Evet,: Hayır,,: 38180664,: 29 Temmuz 24,: Satılık Daire,Istanbul
+3,,: 2,: 4,: 2,: 5,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 180m2,: 4+2,5.150.000 TL,: Hayır,: Hayır,: Var,: 34448355,: 31 Temmuz 24,: Satılık Daire,Istanbul
+4,,: 1,: 16-20,: 2,: Yüksek Giriş,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 75m2,: 1+1,2.000.000 TL,: Hayır,: Hayır,: Var,: 34118702,: 30 Temmuz 24,: Satılık Daire,Istanbul
+5,,: 2,: 5-10,,: 6,: Hayır,,: Doğalgaz (Kombi),: 7,: Evet,: Mülk Sahibi,: Yok,: 180m2,: 4+2,4.550.000 TL,: Hayır,: Hayır,,: 34667958,: 29 Temmuz 24,: Satılık Daire,Istanbul
+6,,: 1,: 11-15,,: 2,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 85m2,: 2+1,2.695.000 TL,,: Hayır,,: 52343961,: 26 Temmuz 24,: Satılık Daire,Istanbul
+7,,: 2,: 11-15,: 1,: 5,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 160m2,: 3+2,4.850.000 TL,: Hayır,: Hayır,: Var,: 34646908,: 30 Temmuz 24,: Satılık Daire,Istanbul
+8,,: 2,: 0,,: 3,,,: Doğalgaz (Kombi),: 15,: Evet,: Boş,: Yok,: 80m2,: 3+1,5.950.000 TL,,: Hayır,,: 69496186,: 26 Temmuz 24,: Satılık Daire,Istanbul
+9,,: 2,: 0,,: Giriş Katı,,,: Doğalgaz (Kombi),: 7,: Hayır,: Boş,: Yok,: 110m2,: 3+1,3.750.000 TL,,: Hayır,,: 48901803,: 31 Temmuz 24,: Satılık Daire,Istanbul
+10,,: 1,: 16-20,: 2,: Yüksek Giriş,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 85m2,: 2+1,2.200.000 TL,: Hayır,: Hayır,: Var,: 34257029,: 30 Temmuz 24,: Satılık Daire,Istanbul
+11,,: 2,: 16-20,,: Yüksek Giriş,,,: Doğalgaz (Kombi),: 3,: Evet,: Mülk Sahibi,: Yok,: 110m2,: 3+1,5.100.000 TL,,: Hayır,,: 45416165,: 27 Temmuz 24,: Satılık Daire,Istanbul
+12,,: 2,: 4,: 2,: Bahçe Katı,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 150m2,: 3+1,2.590.000 TL,: Hayır,: Evet,: Var,: 34641231,: 28 Temmuz 24,: Satılık Daire,Istanbul
+13,,: 1,: 0,,: 10,,,: Doğalgaz (Kombi),: 10,: Evet,: Boş,: Yok,: 110m2,: 4+2,7.200.000 TL,,: Hayır,,: 15142710,: 27 Temmuz 24,: Satılık Daire,Istanbul
+14,,: 2,: 2,,: 2,: Hayır,,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 90m2,: 2+1,4.800.000 TL,: Hayır,: Hayır,,: 34594753,: 25 Temmuz 24,: Satılık Daire,Istanbul
+15,,: 1,: 5-10,,: 1,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 75m2,: 2+1,3.075.000 TL,,: Hayır,,: 17881956,: 22 Temmuz 24,: Satılık Daire,Istanbul
+16,,: 1,: 26-30,,: 3,,,: Doğalgaz (Kombi),: 3,: Hayır,: Kiracılı,: Yok,: 100m2,: 2+1,2.650.000 TL,,: Hayır,,: 82985516,: 20 Temmuz 24,: Satılık Daire,Istanbul
+17,,: 2,: 26-30,,: 2,,,: Doğalgaz (Kombi),: 8,: Evet,: Kiracılı,: Yok,: 129m2,: 3+1,4.275.000 TL,,: Hayır,,: 43883503,: 19 Temmuz 24,: Satılık Daire,Istanbul
+18,,: 2,: 0,,: Giriş Katı,,,: Doğalgaz (Kombi),: 10,: Evet,: Boş,: Yok,: 55m2,: 2+1,3.250.000 TL,,: Hayır,,: 39583028,: 27 Temmuz 24,: Satılık Daire,Istanbul
+19,,: 1,: 30+,,: 5,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 96m2,: 3+1,5.950.000 TL,,: Hayır,,: 73217820,: 17 Temmuz 24,: Satılık Daire,Istanbul
+20,,: 1,: 26-30,,: Yüksek Giriş,,,: Doğalgaz (Kombi),: 4,: Hayır,: Boş,: Yok,: 80m2,: 2+1,2.995.000 TL,,: Hayır,,: 106699372,: 16 Temmuz 24,: Satılık Daire,Istanbul
+21,,: 1,: 26-30,,: 4,,,: Doğalgaz (Kombi),: 4,: Hayır,: Kiracılı,: Yok,: 135m2,: 3+1,2.300.000 TL,,: Hayır,,: 34024425,: 13 Temmuz 24,: Satılık Daire,Istanbul
+22,,: 1,: 0,,: Yüksek Giriş,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 60m2,: 2+1,2.485.000 TL,,: Hayır,,: 48338906,: 06 Temmuz 24,: Satılık Daire,Istanbul
+23,,: 1,: 5-10,,: 2,,,: Doğalgaz (Kombi),: 4,: Hayır,: Boş,: Yok,: 90m2,: 2+1,3.750.000 TL,,: Hayır,,: 105713064,: 12 Temmuz 24,: Satılık Daire,Istanbul
+24,,: 1,: 26-30,,: Bodrum Kat,,,: Yok,: 4,: Hayır,: Boş,: Yok,: 60m2,: 1+1,750.000 TL,,: Hayır,,: 41995714,: 05 Temmuz 24,: Satılık Daire,Istanbul
+25,,: 1,: 30+,,: 1,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 110m2,: 3+1,6.000.000 TL,,: Hayır,,: 31267626,: 06 Temmuz 24,: Satılık Daire,Istanbul
+26,,: 2,: 21-25,,: 11,,,: Doğalgaz (Kombi),: 15,: Evet,: Boş,: Yok,: 95m2,: 2+1,7.100.000 TL,,: Hayır,,: 80576152,: 15 Temmuz 24,: Satılık Daire,Istanbul
+27,,: 2,: 11-15,,: 4,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 175m2,: 4+1,4.050.000 TL,,: Hayır,,: 94510122,: 03 Temmuz 24,: Satılık Daire,Istanbul
+28,,: 1,: 26-30,: 2,: Bahçe Katı,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Hayır,: Kiracılı,: Yok,: 65m2,: 1+1,1.495.000 TL,: Hayır,: Hayır,,: 34500107,: 17 Temmuz 24,: Satılık Daire,Istanbul
+29,,: 1,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 85m2,: 2+1,4.650.000 TL,,: Hayır,,: 92925785,: 01 Temmuz 24,: Satılık Daire,Istanbul
+30,,: 2,: 0,,: 4,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 120m2,: 3+1,5.300.000 TL,,: Hayır,,: 73110520,: 27 Temmuz 24,: Satılık Daire,Istanbul
+31,,: 1,: 0,,: 1,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 110m2,: 3+1,5.700.000 TL,,: Hayır,,: 27156062,: 27 Temmuz 24,: Satılık Daire,Istanbul
+32,,: 2,: 5-10,: 4,: Giriş Katı,: Evet,: Evet,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Boş,: Yok,: 155m2,: 3+1,4.600.000 TL,: Evet,: Hayır,: Var,: 34117390,: 26 Haziran 24,: Satılık Daire,Istanbul
+33,,: 1,: 21-25,: 2,: 3,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.320.000 TL,: Hayır,: Hayır,: Var,: 34125911,: 15 Temmuz 24,: Satılık Daire,Istanbul
+34,,: 2,: 11-15,,: 7,,,: Doğalgaz (Kombi),: 7,: Evet,: Boş,: Yok,: 100m2,: 3+1,8.000.000 TL,,: Hayır,,: 88661445,: 24 Haziran 24,: Satılık Daire,Istanbul
+35,,: 2,: 5-10,,: 5,,,: Doğalgaz (Kombi),: 8,: Evet,: Kiracılı,: Yok,: 90m2,: 3+1,3.800.000 TL,,: Hayır,,: 36188164,: 21 Haziran 24,: Satılık Daire,Istanbul
+36,,: 1,: 26-30,,: 4,,,: Doğalgaz (Kombi),: 5,: Hayır,: Mülk Sahibi,: Yok,: 105m2,: 3+1,6.500.000 TL,,: Hayır,,: 60284728,: 27 Temmuz 24,: Satılık Daire,Istanbul
+37,,: 1,: 11-15,,: 1,,,: Doğalgaz (Kombi),: 5,: Hayır,: Boş,: Yok,: 79m2,: 2+1,3.150.000 TL,,: Hayır,,: 85176929,: 12 Haziran 24,: Satılık Daire,Istanbul
+38,,: 2,: 0,: 4,: 5,: Hayır,: Evet,: Doğalgaz (Kombi),: 10,: Evet,: Boş,: Yok,: 155m2,: 3+1,7.500.000 TL,: Evet,: Hayır,: Var,: 34779846,: 10 Haziran 24,: Satılık Daire,Istanbul
+39,,: 2,: 30+,,: 1,,,: Merkezi Sistem (Pay Ölçer),: 4,: Hayır,: Kiracılı,: Yok,: 75m2,: 2+1,11.000.000 TL,,: Hayır,,: 79344423,: 05 Temmuz 24,: Satılık Daire,Istanbul
+40,,: 1,: 21-25,,: 4,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 100m2,: 3+1,3.000.000 TL,,: Hayır,,: 31906248,: 09 Haziran 24,: Satılık Daire,Istanbul
+41,,: 1,: 5-10,,: Yüksek Giriş,,,: Doğalgaz (Kombi),: 4,: Hayır,: Kiracılı,: Yok,: 55m2,: 2+1,1.990.000 TL,,: Hayır,,: 61630690,: 05 Haziran 24,: Satılık Daire,Istanbul
+42,,: 2,: 16-20,,: 5,,,: Doğalgaz (Kombi),: 6,: Evet,: Boş,: Yok,: 85m2,: 2+1,3.800.000 TL,,: Hayır,,: 81463421,: 25 Haziran 24,: Satılık Daire,Istanbul
+43,,: 1,: 30+,,: Zemin Kat,: Evet,,: Doğalgaz (Kombi),: 4,: Hayır,: Boş,: Yok,: 65m2,: 1+1,4.000.000 TL,: Evet,: Hayır,,: 34124639,: 25 Mayıs 24,: Satılık Daire,Istanbul
+44,,: 2,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 3,: Evet,: Mülk Sahibi,: Yok,: 175m2,: 5+2,7.995.000 TL,,: Hayır,,: 43708499,: 25 Mayıs 24,: Satılık Daire,Istanbul
+45,,: 1,: 0,,: 3,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 105m2,: 3+1,5.600.000 TL,,: Hayır,,: 97809388,: 27 Temmuz 24,: Satılık Daire,Istanbul
+46,,: 2,: 0,,: 4,,,: Doğalgaz (Kombi),: 15,: Evet,: Boş,: Yok,: 105m2,: 3+1,5.700.000 TL,,: Hayır,,: 53279769,: 24 Mayıs 24,: Satılık Daire,Istanbul
+47,,: 2,: 16-20,: 3,: 5,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 180m2,: 3+2,4.150.000 TL,: Hayır,: Hayır,: Var,: 34468403,: 07 Temmuz 24,: Satılık Daire,Istanbul
+48,,: 2,: 11-15,,: 11,,,: Doğalgaz (Kombi),: 30+,: Evet,: Boş,: Yok,: 130m2,: 3+1,4.075.000 TL,,: Hayır,,: 77271410,: 24 Mayıs 24,: Satılık Daire,Istanbul
+49,,: 2,: 5-10,,: 8,,,: Merkezi Sistem (Pay Ölçer),: 25,: Hayır,: Mülk Sahibi,: Yok,: 130m2,: 3+1,10.950.000 TL,,: Hayır,,: 38683512,: 05 Haziran 24,: Satılık Daire,Istanbul
+50,,: 1,: 3,,: 3,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 70m2,: 2+1,3.600.000 TL,,: Hayır,,: 72477573,: 28 Haziran 24,: Satılık Daire,Istanbul
+51,,: 2,: 4,,: 1,,,: Doğalgaz (Kombi),: 4,: Hayır,: Mülk Sahibi,: Yok,: 110m2,: 3+1,4.750.000 TL,,: Hayır,,: 73305067,: 05 Haziran 24,: Satılık Daire,Istanbul
+52,,: 2,: 16-20,,: 2,,,: Merkezi Sistem (Pay Ölçer),: 5,: Evet,: Kiracılı,: Yok,: 210m2,: 5+1,41.250.000 TL,,: Hayır,,: 91780167,: 04 Haziran 24,: Satılık Daire,Istanbul
+53,,: 1,: 0,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 70m2,: 1+1,1.900.000 TL,,: Hayır,,: 61925138,: 23 Mayıs 24,: Satılık Daire,Istanbul
+54,,: 1,: 5-10,,: 16,,,: Merkezi Sistem,: 29,: Evet,: Kiracılı,: Yok,: 65m2,: 1+1,1.800.000 TL,,: Hayır,,: 46130286,: 27 Temmuz 24,: Satılık Daire,Istanbul
+55,,: 1,: 11-15,,: 2,,,: Doğalgaz (Kombi),: 4,: Hayır,: Kiracılı,: Yok,: 75m2,: 2+1,2.250.000 TL,,: Hayır,,: 57648779,: 31 Mayıs 24,: Satılık Daire,Istanbul
+56,,: 2,: 5-10,,: 1,,,: Doğalgaz (Kombi),: 10,: Evet,: Mülk Sahibi,: Yok,: 170m2,: 4+1,6.000.000 TL,,: Hayır,,: 90484405,: 27 Nisan 24,: Satılık Daire,Istanbul
+57,: 400,: 2,: 0,: 2,: Bahçe Katı,: Hayır,,: Doğalgaz (Kombi),: 4,: Evet,: Mülk Sahibi,: Yok,: 75m2,: 3+1,3.300.000 TL,: Hayır,: Hayır,,: 107880695,: 17 Nisan 24,: Satılık Daire,Istanbul
+58,,: 1,: 26-30,,: 1,,,: Doğalgaz (Kombi),: 4,: Hayır,: Boş,: Yok,: 80m2,: 2+1,1.690.000 TL,,: Hayır,,: 65057931,: 08 Mayıs 24,: Satılık Daire,Istanbul
+59,,: 1,: 26-30,,: 3,,,: Doğalgaz (Kombi),: 4,: Hayır,: Boş,: Yok,: 90m2,: 2+1,1.850.000 TL,,: Hayır,,: 20299709,: 08 Mayıs 24,: Satılık Daire,Istanbul
+60,,: 1,: 5-10,,: 10,,,: Doğalgaz (Kombi),: 15,: Hayır,: Boş,: Yok,: 100m2,: 3+1,2.790.000 TL,,: Hayır,,: 86133641,: 10 Haziran 24,: Satılık Daire,Istanbul
+61,: 300,: 1,: 26-30,: 2,: Bodrum Kat,: Hayır,: Evet,: Merkezi Sistem,: 6,: Evet,: Boş,: Yok,: 45m2,: 2+1,2.750.000 TL,: Hayır,: Evet,,: 34384267,: 13 Mayıs 24,: Satılık Daire,Istanbul
+62,,: 1,: 4,,: 4,,,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Kiracılı,: Yok,: 85m2,: 2+1,6.100.000 TL,,: Hayır,,: 76453844,: 23 Haziran 24,: Satılık Daire,Istanbul
+63,,: 1,: 21-25,: 2,: Çatı Katı,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Hayır,: Kiracılı,: Yok,: 120m2,: 2+1,1.850.000 TL,: Hayır,: Hayır,: Var,: 34182024,: 04 Temmuz 24,: Satılık Daire,Istanbul
+64,,: 1,: 26-30,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Evet,: Mülk Sahibi,: Yok,: 75m2,: 2+1,2.375.000 TL,,: Hayır,,: 17597028,: 12 Mayıs 24,: Satılık Daire,Istanbul
+65,,: 2,: 30+,,: 3,,,: Merkezi Sistem,: 8,: Evet,: Boş,: Yok,: 110m2,: 3+1,14.450.000 TL,,: Hayır,,: 35082668,: 05 Temmuz 24,: Satılık Daire,Istanbul
+66,,: 2,: 5-10,,: Giriş Katı,,,: Merkezi Sistem,: 20,: Evet,: Mülk Sahibi,: Yok,: 150m2,: 3+1,9.500.000 TL,,: Hayır,,: 52176006,: 23 Nisan 24,: Satılık Daire,Istanbul
+67,,: 1,: 5-10,: 5+,: 4,: Hayır,: Hayır,: Merkezi Sistem (Pay Ölçer),: 16,: Evet,: Kiracılı,: Yok,: 75m2,: 1+1,2.175.000 TL,: Evet,: Hayır,: Var,: 34389973,: 19 Mayıs 24,: Satılık Daire,Istanbul
+68,,: 1,: 5-10,: 5+,: 11,: Evet,: Evet,: Doğalgaz (Kombi),: 19,: Hayır,: Mülk Sahibi,: Yok,: 65m2,: 1+1,1.325.000 TL,: Evet,: Hayır,,: 34600947,: 10 Mayıs 24,: Satılık Daire,Istanbul
+69,,: 1,: 21-25,,: 3,,,: Doğalgaz (Kombi),: 5,: Hayır,: Mülk Sahibi,: Yok,: 90m2,: 2+1,2.200.000 TL,,: Hayır,,: 91487387,: 27 Temmuz 24,: Satılık Daire,Istanbul
+70,,: 2,: 0,,: 2,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 110m2,: 3+1,3.650.000 TL,,: Hayır,,: 19962845,: 26 Haziran 24,: Satılık Daire,Istanbul
+71,,: 1,: 26-30,,: 5,,,: Doğalgaz (Kombi),: 5,: Hayır,: Kiracılı,: Yok,: 85m2,: 2+1,1.750.000 TL,,: Hayır,,: 60887527,: 03 Nisan 24,: Satılık Daire,Istanbul
+72,,: 1,: 0,,: 1,,,: Doğalgaz (Kombi),: 7,: Evet,: Boş,: Yok,: 89m2,: 3+1,4.100.000 TL,,: Hayır,,: 70195736,: 27 Temmuz 24,: Satılık Daire,Istanbul
+73,,: 2,: 3,,: 2,,,: Merkezi Sistem,: 15,: Hayır,: Mülk Sahibi,: Yok,: 75m2,: 2+1,5.290.000 TL,,: Hayır,,: 77828652,: 17 Nisan 24,: Satılık Daire,Istanbul
+74,,: 2,: 3,,: 11,,,: Merkezi Sistem,: 15,: Hayır,: Boş,: Yok,: 75m2,: 2+1,5.290.000 TL,,: Hayır,,: 91049932,: 17 Nisan 24,: Satılık Daire,Istanbul
+75,,: 2,: 0,,: 8,,,: Merkezi Sistem (Pay Ölçer),: 15,: Hayır,: Boş,: Yok,: 94m2,: 3+1,6.590.000 TL,,: Hayır,,: 33751060,: 31 Mayıs 24,: Satılık Daire,Istanbul
+76,,: 2,: 16-20,,: 4,,,: Kalorifer (Doğalgaz),: 4,: Evet,: Kiracılı,: Yok,: 100m2,: 4+1,2.450.000 TL,,: Hayır,,: 20957331,: 18 Nisan 24,: Satılık Daire,Istanbul
+77,,: 1,: 30+,,: 2,,,: Doğalgaz (Kombi),: 4,: Hayır,: Kiracılı,: Yok,: 70m2,: 2+1,1.485.000 TL,,: Hayır,,: 17770086,: 06 Mayıs 24,: Satılık Daire,Istanbul
+78,,: 1,: 30+,,: 3,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 100m2,: 3+1,4.990.000 TL,,: Hayır,,: 15651261,: 02 Nisan 24,: Satılık Daire,Istanbul
+79,,: 1,: 21-25,: 2,: Yüksek Giriş,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 75m2,: 2+1,2.200.000 TL,: Hayır,: Hayır,: Var,: 34268779,: 01 Temmuz 24,: Satılık Daire,Istanbul
+80,,: 1,: 11-15,,: 11,,,: Merkezi Sistem (Pay Ölçer),: 20,: Evet,: Mülk Sahibi,: Yok,: 126m2,: 2+1,10.000.000 TL,,: Hayır,,: 20952888,: 03 Haziran 24,: Satılık Daire,Istanbul
+81,,: 1,: 11-15,,: 2,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 120m2,: 3+1,4.550.000 TL,,: Hayır,,: 90290809,: 09 Haziran 24,: Satılık Daire,Istanbul
+82,,: 1,: 0,,: 4,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 85m2,: 2+1,5.500.000 TL,,: Hayır,,: 81151431,: 27 Temmuz 24,: Satılık Daire,Istanbul
+83,,: 1,: 5-10,: 2,: Yüksek Giriş,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 80m2,: 2+1,2.200.000 TL,: Hayır,: Hayır,: Var,: 34742470,: 01 Temmuz 24,: Satılık Daire,Istanbul
+84,,: 2,: 0,,: 5,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 145m2,: 4+1,5.250.000 TL,,: Hayır,,: 93948119,: 27 Temmuz 24,: Satılık Daire,Istanbul
+85,,: 2,: 5-10,,: 5,,,: Merkezi Sistem (Pay Ölçer),: 6,: Evet,: Kiracılı,: Yok,: 125m2,: 3+1,4.450.000 TL,,: Hayır,,: 27206090,: 21 Haziran 24,: Satılık Daire,Istanbul
+86,,: 3,: 0,,: 10,,,: Doğalgaz (Kombi),: 10,: Evet,: Boş,: Yok,: 160m2,: 4+1,6.250.000 TL,,: Hayır,,: 75957448,: 12 Mart 24,: Satılık Daire,Istanbul
+87,,: 1,: 4,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 90m2,: 2+1,3.100.000 TL,,: Hayır,,: 26408934,: 27 Temmuz 24,: Satılık Daire,Istanbul
+88,,: 1,: 30+,,: 5,,,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 85m2,: 2+1,4.950.000 TL,,: Evet,,: 31768849,: 06 Mart 24,: Satılık Daire,Istanbul
+89,,: 1,: 0,,: 5,,,: Merkezi Sistem,: 20,: Hayır,: Boş,: Yok,: 54m2,: 2+1,2.690.000 TL,,: Hayır,,: 70483661,: 09 Mart 24,: Satılık Daire,Istanbul
+90,,: 1,: 30+,,: 4,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 110m2,: 3+1,1.950.000 TL,,: Hayır,,: 21715491,: 30 Nisan 24,: Satılık Daire,Istanbul
+91,,: 1,: 0,,: 1,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 80m2,: 2+1,3.000.000 TL,,: Hayır,,: 79643185,: 22 Haziran 24,: Satılık Daire,Istanbul
+92,,: 1,: 16-20,: 2,: 3,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 95m2,: 2+1,2.900.000 TL,: Hayır,: Hayır,: Yok,: 34450021,: 05 Haziran 24,: Satılık Daire,Istanbul
+93,,: 1,: 21-25,,: 2,,,: Doğalgaz (Kombi),: 10,: Evet,: Kiracılı,: Yok,: 130m2,: 3+1,3.350.000 TL,,: Hayır,,: 53435399,: 17 Şubat 24,: Satılık Daire,Istanbul
+94,,: 1,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 3,: Evet,: Mülk Sahibi,: Yok,: 130m2,: 3+1,4.250.000 TL,,: Hayır,,: 15467272,: 11 Şubat 24,: Satılık Daire,Istanbul
+95,,: 1,: 0,,: 6,,,: Doğalgaz (Kombi),: 7,: Evet,: Boş,: Yok,: 115m2,: 4+1,5.100.000 TL,,: Hayır,,: 65191552,: 27 Temmuz 24,: Satılık Daire,Istanbul
+96,,: 1,: 30+,,: 1,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 100m2,: 3+1,3.599.000 TL,,: Hayır,,: 80107920,: 12 Ocak 24,: Satılık Daire,Istanbul
+97,,: 2,: 5-10,,: 16,,,: Merkezi Sistem (Pay Ölçer),: 29,: Evet,: Mülk Sahibi,: Yok,: 159m2,: 3+1,10.995.000 TL,,: Hayır,,: 74296651,: 19 Ocak 24,: Satılık Daire,Istanbul
+98,,: 1,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 3,: Evet,: Kiracılı,: Yok,: 150m2,: 3+1,4.500.000 TL,,: Hayır,,: 94723008,: 22 Ocak 24,: Satılık Daire,Istanbul
+99,,: 1,: 30+,,: 5,,,: Doğalgaz (Kombi),: 5,: Hayır,: Mülk Sahibi,: Yok,: 130m2,: 3+1,1.950.000 TL,,: Hayır,,: 13108950,: 29 Nisan 24,: Satılık Daire,Istanbul
+100,: 300,: 1,: 4,: 5+,: 1,: Hayır,: Hayır,: Merkezi Sistem (Pay Ölçer),: 9,: Evet,: Mülk Sahibi,: Yok,: 90m2,: 2+1,3.500.000 TL,: Evet,: Hayır,,: 34576675,: 10 Ocak 24,: Satılık Daire,Istanbul
+101,,: 2,: 11-15,,: 7,,,: Merkezi Sistem,: 9,: Evet,: Mülk Sahibi,: Yok,: 113m2,: 2+1,7.600.000 TL,,: Hayır,,: 102409912,: 28 Şubat 24,: Satılık Daire,Istanbul
+102,,: 2,: 5-10,: 2,: 5,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 200m2,: 4+2,5.500.000 TL,: Hayır,: Hayır,: Var,: 34792920,: 21 Şubat 24,: Satılık Daire,Istanbul
+103,,: 1,: 11-15,,: Yüksek Giriş,,,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 85m2,: 2+1,2.700.000 TL,,: Hayır,,: 101949027,: 27 Temmuz 24,: Satılık Daire,Istanbul
+104,,: 1,: 26-30,,: 3,,,: Doğalgaz (Kombi),: 4,: Hayır,: Kiracılı,: Yok,: 120m2,: 3+1,1.500.000 TL,,: Hayır,,: 19283958,: 24 Mayıs 24,: Satılık Daire,Istanbul
+105,,: 1,: 5-10,: 2,: Bahçe Katı,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 75m2,: 2+1,1.575.000 TL,: Hayır,: Hayır,: Var,: 34266675,: 07 Mart 24,: Satılık Daire,Istanbul
+106,,: 1,: 26-30,,: 4,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 115m2,: 3+1,1.695.000 TL,,: Hayır,,: 97786442,: 29 Nisan 24,: Satılık Daire,Istanbul
+107,,: 2,: 16-20,,: 7,,,: Doğalgaz (Kombi),: 10,: Evet,: Boş,: Yok,: 145m2,: 3+1,3.950.000 TL,,: Hayır,,: 46808415,: 08 Şubat 24,: Satılık Daire,Istanbul
+108,,: 2,: 5-10,,: 11,,,: Merkezi Sistem,: 15,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,8.390.000 TL,,: Hayır,,: 89090026,: 27 Mart 24,: Satılık Daire,Istanbul
+109,,: 2,: 5-10,,: 2,,,: Merkezi Sistem,: 15,: Hayır,: Mülk Sahibi,: Yok,: 90m2,: 2+1,6.490.000 TL,,: Hayır,,: 82552504,: 27 Mart 24,: Satılık Daire,Istanbul
+110,,: 2,: 5-10,: 1,: 4,: Evet,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 196m2,: 4+2,6.900.000 TL,: Hayır,: Hayır,: Var,: 83825720,: 17 Mayıs 24,: Satılık Daire,Istanbul
+111,,: 1,: 16-20,: 2,: Yüksek Giriş,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 75m2,: 2+1,2.100.000 TL,: Hayır,: Hayır,: Var,: 34507835,: 09 Haziran 24,: Satılık Daire,Istanbul
+112,,: 2,: 5-10,: 1,: 3,: Evet,: Evet,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 190m2,: 4+2,6.900.000 TL,: Hayır,: Hayır,: Var,: 34406175,: 15 Mayıs 24,: Satılık Daire,Istanbul
+113,,: 1,: 16-20,: 2,: 2,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 80m2,: 2+1,2.350.000 TL,: Hayır,: Hayır,: Yok,: 34706417,: 29 Mayıs 24,: Satılık Daire,Istanbul
+114,,: 3,: 0,,: 4,,,: Doğalgaz (Kombi),: 5,: Hayır,: Boş,: Yok,: 210m2,: 5+1,8.990.000 TL,,: Hayır,,: 24572218,: 30 Ocak 24,: Satılık Daire,Istanbul
+115,,: 2,: 16-20,: 2,: Çatı Katı,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 150m2,: 4+2,3.000.000 TL,: Hayır,: Hayır,: Var,: 34102635,: 05 Haziran 24,: Satılık Daire,Istanbul
+116,,: 1,: 0,,: Giriş Katı,,,: Doğalgaz (Kombi),: 10,: Evet,: Boş,: Yok,: 75m2,: 2+1,3.250.000 TL,,: Hayır,,: 84929179,: 13 Mart 24,: Satılık Daire,Istanbul
+117,,: 1,: 30+,,: 3,,,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 150m2,: 4+1,11.200.000 TL,,: Hayır,,: 46861133,: 02 Nisan 24,: Satılık Daire,Istanbul
+118,,: 1,: 26-30,: 3,: 1,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Hayır,: Boş,: Yok,: 84m2,: 2+1,1.745.000 TL,: Hayır,: Hayır,: Yok,: 34239474,: 31 Mayıs 24,: Satılık Daire,Istanbul
+119,,: 1,: 11-15,: 2,: 2,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 120m2,: 3+1,3.800.000 TL,: Hayır,: Hayır,: Var,: 34247941,: 30 Mayıs 24,: Satılık Daire,Istanbul
+120,,: 2,: 11-15,: 2,: 5,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 180m2,: 2+1,4.350.000 TL,: Hayır,: Hayır,,: 34299514,: 09 Ocak 24,: Satılık Daire,Istanbul
+121,,: 1,: 11-15,: 3,: 2,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 80m2,: 2+1,2.260.000 TL,: Hayır,: Hayır,: Var,: 34612853,: 02 Mayıs 24,: Satılık Daire,Istanbul
+122,,: 1,: 0,: 4,: 2,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 90m2,: 2+1,3.250.000 TL,: Hayır,: Hayır,: Var,: 34532165,: 02 Mayıs 24,: Satılık Daire,Istanbul
+123,,: 1,: 16-20,: 2,: 2,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 110m2,: 2+1,2.700.000 TL,: Hayır,: Hayır,: Var,: 34183195,: 01 Mayıs 24,: Satılık Daire,Istanbul
+124,,: 2,: 11-15,: 2,: 5,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 220m2,: 4+2,7.500.000 TL,: Hayır,: Hayır,: Var,: 34378428,: 26 Nisan 24,: Satılık Daire,Istanbul
+125,,: 2,: 0,: 2,: 5,: Hayır,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 240m2,: 6+2,6.750.000 TL,: Hayır,: Hayır,: Var,: 34270402,: 01 Nisan 24,: Satılık Daire,Istanbul
+126,,: 2,: 0,,: 4,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 120m2,: 3+1,5.300.000 TL,,: Hayır,,: 36009366,: 20 Temmuz 24,: Satılık Daire,Istanbul
+127,,: 1,: 26-30,,: 3,: Hayır,,: Merkezi Sistem,: 6,: Evet,: Kiracılı,: Yok,: 185m2,: 4+1,9.400.000 TL,: Hayır,: Evet,,: 34317702,: 26 Mart 24,: Satılık Daire,Istanbul
+128,,: 1,: 21-25,: 2,: 3,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 80m2,: 2+1,2.000.000 TL,: Hayır,: Hayır,: Var,: 34222090,: 10 Ocak 24,: Satılık Daire,Istanbul
+129,,: 1,: 0,: 2,: 2,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 90m2,: 2+1,3.680.000 TL,: Hayır,: Hayır,: Var,: 34588798,: 04 Ocak 24,: Satılık Daire,Istanbul
+130,,: 1,: 1,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 65m2,: 2+1,11.000.000 TL,,: Hayır,,: 36841090,: 23 Şubat 24,: Satılık Daire,Istanbul
+131,: 100,: 2,: 5-10,: 1,: Çatı Katı,: Evet,: Evet,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 200m2,: 4+2,5.300.000 TL,: Hayır,: Hayır,: Var,: 76439997,: 12 Kasım 23,: Satılık Daire,Istanbul
+132,,: 1,: 21-25,,: 4,,,: Doğalgaz (Kombi),: 15,: Hayır,: Mülk Sahibi,: Yok,: 90m2,: 3+1,3.999.000 TL,,: Hayır,,: 88774319,: 17 Aralık 23,: Satılık Daire,Istanbul
+133,,: 1,: 30+,,: Yüksek Giriş,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 83m2,: 2+1,4.500.000 TL,,: Hayır,,: 81902985,: 25 Ekim 23,: Satılık Daire,Istanbul
+134,,: 1,: 11-15,,: 1,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 80m2,: 3+1,4.950.000 TL,,: Hayır,,: 93487263,: 18 Kasım 23,: Satılık Daire,Istanbul
+135,,: 1,: 11-15,: 4,: 2,: Evet,,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 110m2,: 3+1,3.100.000 TL,: Evet,: Evet,,: 63579242,: 06 Eylül 23,: Satılık Daire,Istanbul
+136,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 3,: Hayır,: Kiracılı,: Yok,: 95m2,: 2+1,1.175.000 TL,,: Hayır,,: 76517677,: 09 Ekim 23,: Satılık Daire,Istanbul
+137,: 140,: 1,: 26-30,: 4,: Kot 4,: Hayır,: Hayır,: Merkezi Sistem,: 7,: Evet,: Kiracılı,: Yok,: 118m2,: 3+1,9.850.000 TL,: Hayır,: Hayır,: Var,: 55129085,: 29 Ağustos 23,: Satılık Daire,Istanbul
+138,,: 1,: 3,,: Kot 1,,,: Doğalgaz (Kombi),: 4,: Evet,: Mülk Sahibi,: Yok,: 75m2,: 2+1,2.150.000 TL,,: Hayır,,: 23732831,: 24 Ekim 23,: Satılık Daire,Istanbul
+139,,: 3,: 5-10,,: 2,,,: Merkezi Sistem (Pay Ölçer),: 6,: Evet,: Mülk Sahibi,: Yok,: 196m2,: 4+1,17.250.000 TL,,: Hayır,,: 108577748,: 28 Kasım 23,: Satılık Daire,Istanbul
+140,,: 2,: 5-10,,: 16,,,: Merkezi Sistem (Pay Ölçer),: 25,: Evet,: Mülk Sahibi,: Yok,: 159m2,: 3+1,10.995.000 TL,,: Hayır,,: 88533049,: 31 Ekim 23,: Satılık Daire,Istanbul
+141,,: 1,: 5-10,,: 16,,,: Merkezi Sistem (Pay Ölçer),: 30+,: Evet,: Boş,: Yok,: 60m2,: 1+1,6.850.000 TL,,: Hayır,,: 11894054,: 18 Ekim 23,: Satılık Daire,Istanbul
+142,,: 1,: 0,,: 1,,,: Merkezi Sistem (Pay Ölçer),: 15,: Hayır,: Boş,: Yok,: 62m2,: 1+1,7.540.000 TL,,: Hayır,,: 51918373,: 23 Ekim 23,: Satılık Daire,Istanbul
+143,,: 2,: 0,: 5+,: 3,: Hayır,: Evet,: Merkezi Sistem (Pay Ölçer),: 10,: Evet,: Boş,: Yok,: 120m2,: 2+1,3.500.000 TL,: Evet,: Evet,: Var,: 34268342,: 06 Eylül 23,: Satılık Daire,Istanbul
+144,,: 2,: 5-10,,: 4,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 290m2,: 4+2,15.950.000 TL,,: Hayır,,: 46676903,: 06 Ekim 23,: Satılık Daire,Istanbul
+145,,: 2,: 0,,: Zemin Kat,,,: Merkezi Sistem (Pay Ölçer),: 5,: Hayır,: Boş,: Yok,: 85m2,: 2+1,7.627.000 TL,,: Hayır,,: 105298284,: 07 Ekim 23,: Satılık Daire,Istanbul
+146,,: 2,: 11-15,,: 11,,,: Yerden Isıtma,: 20,: Hayır,: Kiracılı,: Yok,: 100m2,: 3+1,13.500.000 TL,,: Hayır,,: 24785161,: 12 Ekim 23,: Satılık Daire,Istanbul
+147,,: 2,: 0,,: 3,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 133m2,: 4+1,6.250.000 TL,,: Hayır,,: 24739266,: 10 Ekim 23,: Satılık Daire,Istanbul
+148,,: 1,: 16-20,,: 4,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 100m2,: 3+1,3.650.000 TL,,: Hayır,,: 10370742,: 10 Ekim 23,: Satılık Daire,Istanbul
+149,,: 1,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 75m2,: 2+1,2.550.000 TL,,: Hayır,,: 64567470,: 20 Eylül 23,: Satılık Daire,Istanbul
+150,,: 2,: 5-10,,: 11,,,: Doğalgaz (Kombi),: 25,: Hayır,: Boş,: Yok,: 120m2,: 2+1,21.500.000 TL,,: Hayır,,: 30831282,: 07 Eylül 23,: Satılık Daire,Istanbul
+151,,: 2,: 5-10,: 4,: 7,: Hayır,,: Doğalgaz (Kombi),: 10,: Evet,: Boş,: Yok,: 135m2,: 3+1,4.750.000 TL,: Evet,: Evet,: Var,: 34638375,: 05 Eylül 23,: Satılık Daire,Istanbul
+152,,: 2,: 0,,: 4,,,: Yerden Isıtma,: 5,: Evet,: Boş,: Yok,: 105m2,: 2+1,11.400.000 TL,,: Hayır,,: 67279440,: 19 Eylül 23,: Satılık Daire,Istanbul
+153,: 2750,: 1,: 11-15,: 3,: 5,: Hayır,: Evet,: Doğalgaz (Kombi),: 10,: Evet,: Mülk Sahibi,: Yok,: 160m2,: 4+1,12.000.000 TL,: Evet,: Hayır,: Var,: 34603000,: 19 Eylül 23,: Satılık Daire,Istanbul
+154,,: 2,: 5-10,: 4,: 8,: Hayır,: Evet,: Doğalgaz (Kombi),: 11,: Evet,: Boş,: Yok,: 135m2,: 3+1,3.699.000 TL,: Evet,: Evet,: Var,: 34114507,: 06 Eylül 23,: Satılık Daire,Istanbul
+155,,: 2,: 5-10,,: 5,,,: Doğalgaz (Kombi),: 9,: Evet,: Mülk Sahibi,: Yok,: 110m2,: 3+1,7.300.000 TL,,: Hayır,,: 108816883,: 30 Ekim 23,: Satılık Daire,Istanbul
+156,,: 2,: 5-10,,: 5,,,: Merkezi Sistem,: 9,: Hayır,: Boş,: Yok,: 107m2,: 3+1,13.950.000 TL,,: Hayır,,: 94951376,: 17 Aralık 23,: Satılık Daire,Istanbul
+157,,: 2,: 11-15,,: 5,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 175m2,: 3+2,3.990.000 TL,,: Hayır,,: 51607752,: 07 Eylül 23,: Satılık Daire,Istanbul
+158,,: 1,: 5-10,,: 2,,,: Doğalgaz (Kombi),: 2,: Hayır,: Boş,: Yok,: 135m2,: 3+1,8.250.000 TL,,: Hayır,,: 63405380,: 23 Ağustos 23,: Satılık Daire,Istanbul
+159,,: 3,: 5-10,,: 16,,,: Doğalgaz (Kombi),: 25,: Hayır,: Boş,: Yok,: 250m2,: 4+1,67.000.000 TL,,: Hayır,,: 78299248,: 07 Eylül 23,: Satılık Daire,Istanbul
+160,,: 2,: 11-15,,: 4,,,: Doğalgaz (Kombi),: 7,: Hayır,: Boş,: Yok,: 140m2,: 3+1,7.500.000 TL,,: Hayır,,: 30184766,: 21 Ağustos 23,: Satılık Daire,Istanbul
+161,,: 2,: 0,,: 3,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 105m2,: 2+1,4.250.000 TL,,: Hayır,,: 82358185,: 01 Aralık 23,: Satılık Daire,Istanbul
+162,,: 1,: 0,,: 1,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 55m2,: 1+1,2.500.000 TL,,: Hayır,,: 86865938,: 02 Aralık 23,: Satılık Daire,Istanbul
+163,,: 1,: 5-10,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 5,: Hayır,: Boş,: Yok,: 89m2,: 2+1,6.990.000 TL,,: Hayır,,: 49341169,: 01 Aralık 23,: Satılık Daire,Istanbul
+164,,: 1,: 5-10,: 5+,: 18,: Evet,: Hayır,: Doğalgaz (Kombi),: 19,: Hayır,: Mülk Sahibi,: Yok,: 65m2,: 1+1,1.500.000 TL,: Evet,: Hayır,,: 34649096,: 09 Ağustos 23,: Satılık Daire,Istanbul
+165,,: 1,: 0,,: 2,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 55m2,: 1+1,2.500.000 TL,,: Hayır,,: 71212002,: 01 Aralık 23,: Satılık Daire,Istanbul
+166,,: 2,: 4,,: Giriş Katı,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 75m2,: 2+1,4.300.000 TL,,: Hayır,,: 18833687,: 26 Ağustos 23,: Satılık Daire,Istanbul
+167,,: 1,: 11-15,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 3,: Evet,: Mülk Sahibi,: Yok,: 85m2,: 2+1,1.775.000 TL,,: Hayır,,: 12847731,: 24 Ekim 23,: Satılık Daire,Istanbul
+168,,: 1,: 5-10,: 4,: 14,: Hayır,: Evet,: Doğalgaz (Kombi),: 20,: Evet,: Boş,: Yok,: 100m2,: 2+1,1.519.000 TL,: Evet,: Evet,: Var,: 34725782,: 05 Eylül 23,: Satılık Daire,Istanbul
+169,,: 1,: 5-10,,: 1,,,: Doğalgaz (Kombi),: 3,: Hayır,: Kiracılı,: Yok,: 70m2,: 2+1,2.500.000 TL,,: Hayır,,: 58584729,: 09 Ekim 23,: Satılık Daire,Istanbul
+170,,: 1,: 5-10,,: Yüksek Giriş,,,: Doğalgaz (Kombi),: 3,: Evet,: Kiracılı,: Yok,: 110m2,: 3+1,3.150.000 TL,,: Hayır,,: 68751680,: 07 Eylül 23,: Satılık Daire,Istanbul
+171,,: 3,: 0,,: 9,,,: Yerden Isıtma,: 10,: Evet,: Boş,: Yok,: 187m2,: 4+1,81.000.000 TL,,: Evet,,: 54225900,: 05 Ekim 23,: Satılık Daire,Istanbul
+172,,: 4,: 0,,: 3,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 165m2,: 4+1,27.500.000 TL,,: Hayır,,: 101776046,: 05 Ekim 23,: Satılık Daire,Istanbul
+173,,: 2,: 3,: 2,: 2,: Hayır,: Evet,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 100m2,: 2+1,2.400.000 TL,: Hayır,: Evet,: Var,: 34163905,: 05 Eylül 23,: Satılık Daire,Istanbul
+174,,: 2,: 4,,: 2,,,: Merkezi Sistem (Pay Ölçer),: 4,: Evet,: Kiracılı,: Yok,: 95m2,: 3+1,6.250.000 TL,,: Hayır,,: 29823080,: 05 Eylül 23,: Satılık Daire,Istanbul
+175,,: 2,: 4,,: 1,,,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Kiracılı,: Yok,: 110m2,: 3+1,19.000.000 TL,,: Hayır,,: 91336488,: 23 Eylül 23,: Satılık Daire,Istanbul
+176,,: 2,: 5-10,,: 6,,,: Doğalgaz (Kombi),: 8,: Evet,: Kiracılı,: Yok,: 160m2,: 4+1,15.000.000 TL,,: Hayır,,: 38289885,: 28 Eylül 23,: Satılık Daire,Istanbul
+177,,: 5,: 0,,: 2,,,: Doğalgaz (Kombi),: 9,: Hayır,: Boş,: Yok,: 152m2,: 4+1,29.000.000 TL,,: Hayır,,: 49226224,: 29 Ağustos 23,: Satılık Daire,Istanbul
+178,,: 2,: 26-30,,: 16,,,: Merkezi Sistem,: 25,: Evet,: Kiracılı,: Yok,: 250m2,: 4+1,29.700.000 TL,,: Hayır,,: 47258174,: 29 Ağustos 23,: Satılık Daire,Istanbul
+179,,: 2,: 0,,: 11,,,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Boş,: Yok,: 137m2,: 3+1,45.000.000 TL,,: Hayır,,: 72236036,: 26 Ağustos 23,: Satılık Daire,Istanbul
+180,,: 1,: 26-30,,: 4,,,: Doğalgaz (Kombi),: 6,: Evet,: Mülk Sahibi,: Yok,: 130m2,: 3+1,3.700.000 TL,,: Hayır,,: 30281325,: 07 Kasım 23,: Satılık Daire,Istanbul
+181,,: 3,: 0,,: Çatı Katı,,,: Doğalgaz (Kombi),: 4,: Hayır,: Boş,: Yok,: 165m2,: 4+1,13.000.000 TL,,: Hayır,,: 45986680,: 25 Eylül 23,: Satılık Daire,Istanbul
+182,,: 2,: 0,,: 1,,,: Doğalgaz (Kombi),: 3,: Hayır,: Boş,: Yok,: 88m2,: 3+1,9.100.000 TL,,: Hayır,,: 104641332,: 22 Ağustos 23,: Satılık Daire,Istanbul
+183,,: 3,: 0,,: 3,,,: Doğalgaz (Kombi),: 3,: Hayır,: Boş,: Yok,: 167m2,: 5+1,14.000.000 TL,,: Hayır,,: 94265749,: 22 Ağustos 23,: Satılık Daire,Istanbul
+184,,: 1,: 3,,: Giriş Katı,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 65m2,: 2+1,4.500.000 TL,,: Hayır,,: 103860977,: 25 Ekim 23,: Satılık Daire,Istanbul
+185,,: 2,: 5-10,: 2,: 2,: Hayır,: Evet,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 140m2,: 3+1,3.850.000 TL,: Hayır,: Evet,: Var,: 34139480,: 05 Eylül 23,: Satılık Daire,Istanbul
+186,,: 1,: 0,,: Yüksek Giriş,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 70m2,: 2+1,2.775.000 TL,,: Hayır,,: 19169037,: 01 Ağustos 23,: Satılık Daire,Istanbul
+187,,: 2,: 4,,: 8,,,: Yerden Isıtma,: 29,: Hayır,: Boş,: Yok,: 146m2,: 4+1,9.150.000 TL,,: Hayır,,: 90656082,: 07 Eylül 23,: Satılık Daire,Istanbul
+188,,: 2,: 1,,: 2,,,: Soba,: 2,: Hayır,: Boş,: Yok,: 111m2,: 1+1,11.111.111 TL,,: Hayır,,: 39125255,: 16 Ağustos 23,: Satılık Daire,Istanbul
+189,,: 2,: 11-15,,: 4,,,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 88m2,: 2+1,8.000.000 TL,,: Hayır,,: 75040896,: 31 Temmuz 23,: Satılık Daire,Istanbul
+190,,: 1,: 11-15,,: Yüksek Giriş,,,: Doğalgaz (Kombi),: 4,: Evet,: Mülk Sahibi,: Yok,: 85m2,: 2+1,5.500.000 TL,,: Hayır,,: 64620040,: 23 Eylül 23,: Satılık Daire,Istanbul
+191,,: 1,: 30+,,: Kot 1,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 70m2,: 1+1,2.100.000 TL,,: Hayır,,: 106343043,: 26 Ağustos 23,: Satılık Daire,Istanbul
+192,,: 1,: 30+,,: 3,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 60m2,: 2+1,2.050.000 TL,,: Hayır,,: 95236682,: 26 Ağustos 23,: Satılık Daire,Istanbul
+193,,: 2,: 5-10,: 4,: 2,: Hayır,,: Doğalgaz (Kombi),: 8,: Evet,: Boş,: Yok,: 140m2,: 3+1,2.355.000 TL,: Evet,: Evet,: Var,: 34631943,: 05 Eylül 23,: Satılık Daire,Istanbul
+194,,: 2,: 1,,: 2,,,: Doğalgaz (Kombi),: 2,: Hayır,: Boş,: Yok,: 222m2,: 3+1,3.333.333 TL,,: Hayır,,: 87852141,: 27 Temmuz 23,: Satılık Daire,Istanbul
+195,,: 2,: 21-25,,: 10,,,: Doğalgaz (Kombi),: 10,: Evet,: Mülk Sahibi,: Yok,: 160m2,: 4+2,13.950.000 TL,,: Hayır,,: 106945524,: 18 Eylül 23,: Satılık Daire,Istanbul
+196,,: 1,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 7,: Evet,: Kiracılı,: Yok,: 100m2,: 3+1,14.500.000 TL,,: Hayır,,: 28624994,: 08 Eylül 23,: Satılık Daire,Istanbul
+197,: 100,: 1,: 16-20,: 2,: Giriş Katı,: Hayır,: Hayır,: Doğalgaz (Kombi),: 6,: Evet,: Mülk Sahibi,: Yok,: 100m2,: 3+1,2.865.000 TL,: Hayır,: Evet,: Var,: 98013004,: 28 Ocak 23,: Satılık Daire,Istanbul
+198,,: 2,: 21-25,,: 3,,,: Doğalgaz (Kombi),: 5,: Hayır,: Kiracılı,: Yok,: 100m2,: 3+1,1.500.000 TL,,: Hayır,,: 27351283,: 30 Temmuz 23,: Satılık Daire,Istanbul
+199,: 50,: 1,: 5-10,: 2,: 3,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 125m2,: 3+1,2.500.000 TL,: Hayır,: Hayır,: Yok,: 69093099,: 14 Haziran 23,: Satılık Daire,Istanbul
+200,: 50,: 1,: 4,: 3,: 3,: Hayır,,: Doğalgaz (Kombi),: 6,: Evet,: Boş,: Yok,: 100m2,: 2+1,1.330.000 TL,: Hayır,: Hayır,: Var,: 36408736,: 26 Nisan 23,: Satılık Daire,Istanbul
+201,,: 1,: 30+,: 4,: 3,: Hayır,: Hayır,: Doğalgaz (Kombi),: 3,: Evet,: Kiracılı,: Yok,: 106m2,: 3+1,3.700.000 TL,: Evet,: Hayır,: Var,: 19076936,: 30 Mayıs 23,: Satılık Daire,Istanbul
+202,,: 1,: 2,,: 3,: Evet,: Hayır,: Doğalgaz (Kombi),: 3,: Evet,: Mülk Sahibi,: Yok,: 80m2,: 2+1,4.000.000 TL,: Hayır,: Hayır,: Var,: 39572523,: 17 Mart 23,: Satılık Daire,Istanbul
+203,: 2700,: 2,: 11-15,: 4,: 8,: Evet,: Hayır,: Doğalgaz (Kombi),: 13,: Evet,: Mülk Sahibi,: Yok,: 135m2,: 3+1,15.750.000 TL,: Evet,: Hayır,: Var,: 75421860,: 22 Mayıs 23,: Satılık Daire,Istanbul
+204,: 40,: 1,: 30+,: 1,: 4,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 90m2,: 2+1,2.850.000 TL,: Hayır,: Hayır,,: 36694007,: 19 Mart 23,: Satılık Daire,Istanbul
+205,: 250,: 1,: 16-20,: 5+,: 12,: Hayır,: Hayır,: Doğalgaz (Kombi),: 14,: Evet,: Mülk Sahibi,: Yok,: 90m2,: 2+1,2.400.000 TL,: Evet,: Hayır,: Var,: 81383135,: 03 Mart 23,: Satılık Daire,Istanbul
+206,,: 2,: 2,,: 11,,,: Merkezi Sistem (Pay Ölçer),: 20,: Evet,: Boş,: Yok,: 108m2,: 3+1,10.067.040 TL,,: Hayır,,: 65480189,: 17 Mayıs 23,: Satılık Daire,Istanbul
+207,,: 2,: 5-10,,: 7,,,: Doğalgaz (Kombi),: 15,: Evet,: Mülk Sahibi,: Yok,: 90m2,: 2+1,3.200.000 TL,,: Hayır,,: 89575471,: 13 Ekim 23,: Satılık Daire,Istanbul
+208,: 100,: 1,: 16-20,: 2,: Giriş Katı,: Hayır,: Hayır,: Doğalgaz (Kombi),: 3,: Hayır,: Boş,: Yok,: 115m2,: 2+1,3.300.000 TL,: Hayır,: Hayır,: Yok,: 25231535,: 16 Eylül 23,: Satılık Daire,Istanbul
+209,,: 2,: 11-15,,: Bodrum Kat,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 85m2,: 2+1,3.720.000 TL,,: Hayır,,: 99975785,: 06 Eylül 23,: Satılık Daire,Istanbul
+210,: 50,: 1,: 16-20,: 1,: 2,: Hayır,: Hayır,: Doğalgaz (Kombi),: 3,: Hayır,: Kiracılı,: Yok,: 100m2,: 2+1,3.500.000 TL,: Hayır,: Hayır,: Var,: 34722742,: 11 Nisan 23,: Satılık Daire,Istanbul
+211,,: 2,: 5-10,,: 6,,,: Doğalgaz (Kombi),: 6,: Hayır,: Boş,: Yok,: 156m2,: 2+1,7.900.000 TL,,: Hayır,,: 107020796,: 07 Mart 23,: Satılık Daire,Istanbul
+212,: 100 tl,: 2,: 5-10,: 3,: 3,: Hayır,: Hayır,: Doğalgaz (Kombi),: 4,: Evet,: Mülk Sahibi,: Yok,: 110m2,: 3+1,3.850.000 TL,: Hayır,: Hayır,: Var,: 34242493,: 22 Nisan 23,: Satılık Daire,Istanbul
+213,,: 4,: 5-10,,: 11,,,: Fan-Coil,: 20,: Evet,: Mülk Sahibi,: Yok,: 240m2,: 5+0,74.181.240 TL,,: Hayır,,: 24278331,: 20 Mart 23,: Satılık Daire,Istanbul
+214,,: 2,: 5-10,: 4,: Çatı Katı,: Hayır,: Evet,: Doğalgaz (Kombi),: 4,: Evet,: Mülk Sahibi,: Yok,: 120m2,: 2+1,1.660.000 TL,: Hayır,: Hayır,,: 76145448,: 30 Nisan 23,: Satılık Daire,Istanbul
+215,,: 2,: 0,,: 11,,,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Boş,: Yok,: 93m2,: 3+1,15.000.000 TL,,: Evet,,: 59421586,: 31 Mayıs 23,: Satılık Daire,Istanbul
+216,,: 1,: 16-20,,: Kot 2,: Evet,: Evet,: Doğalgaz (Kombi),: 3,: Evet,: Mülk Sahibi,: Yok,: 100m2,: 3+1,3.500.000 TL,: Hayır,: Hayır,: Var,: 102899239,: 29 Eylül 23,: Satılık Daire,Istanbul
+217,,: 1,: 4,,: 11,,,: Doğalgaz (Kombi),: 15,: Evet,: Kiracılı,: Yok,: 75m2,: 2+1,3.000.000 TL,,: Hayır,,: 70131624,: 29 Eylül 23,: Satılık Daire,Istanbul
+218,,: 1,: 26-30,,: 1,,,: Merkezi Sistem,: 9,: Evet,: Kiracılı,: Yok,: 100m2,: 3+1,6.500.000 TL,,: Hayır,,: 108502821,: 10 Şubat 23,: Satılık Daire,Istanbul
+219,,: 2,: 11-15,,: 3,,,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 90m2,: 3+1,11.000.000 TL,,: Hayır,,: 22387718,: 26 Ocak 23,: Satılık Daire,Istanbul
+220,,: 2,: 26-30,,: 3,,,: Merkezi Sistem,: 15,: Evet,: Kiracılı,: Yok,: 160m2,: 4+1,7.400.000 TL,,: Hayır,,: 19771059,: 13 Mart 23,: Satılık Daire,Istanbul
+221,,: 2,: 16-20,,: 5,,,: Doğalgaz (Kombi),: 10,: Evet,: Kiracılı,: Yok,: 178m2,: 4+1,15.000.000 TL,,: Hayır,,: 24953210,: 03 Şubat 23,: Satılık Daire,Istanbul
+222,,: 1,: 5-10,,: 4,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 120m2,: 3+1,1.740.000 TL,,: Hayır,,: 96512665,: 01 Mart 23,: Satılık Daire,Istanbul
+223,,: 1,: 11-15,,: Giriş Katı,,,: Doğalgaz (Kombi),: 7,: Hayır,: Mülk Sahibi,: Yok,: 65m2,: 2+1,5.350.000 TL,,: Hayır,,: 99492781,: 19 Ocak 23,: Satılık Daire,Istanbul
+224,,: 1,: 0,,: 8,,,: Doğalgaz (Kombi),: 10,: Evet,: Boş,: Yok,: 75m2,: 2+1,8.500.000 TL,,: Hayır,,: 94047563,: 12 Nisan 23,: Satılık Daire,Istanbul
+225,,,,,,,,,,,,,,,,,,,,,,Istanbul
+226,,: 3,: 5-10,,: 11,,,: Doğalgaz (Kombi),: 15,: Evet,: Kiracılı,: Yok,: 182m2,: 3+1,23.000.000 TL,,: Hayır,,: 70643720,: 28 Mart 23,: Satılık Daire,Istanbul
+227,,: 5,: 5-10,,: 16,,,: Merkezi Sistem,: 25,: Evet,: Boş,: Yok,: 350m2,: 5+1,80.000.000 TL,,: Hayır,,: 92056453,: 07 Eylül 23,: Satılık Daire,Istanbul
+228,,: 1,: 5-10,,: 2,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 125m2,: 3+1,4.650.000 TL,,: Hayır,,: 18436899,: 25 Aralık 23,: Satılık Daire,Istanbul
+229,,: 1,: 1,,: Yüksek Giriş,,,: Kalorifer (Doğalgaz),: 5,: Evet,: Boş,: Yok,: 80m2,: 1+1,1.039.000 TL,,: Evet,,: 41384332,: 01 Mart 23,: Satılık Daire,Istanbul
+230,,: 2,: 30+,,: 3,,,: Merkezi Sistem,: 5,: Evet,: Mülk Sahibi,: Yok,: 160m2,: 4+1,23.000.000 TL,,: Hayır,,: 89586346,: 05 Mayıs 23,: Satılık Daire,Istanbul
+231,,: 1,: 2,,: Bahçe Katı,,,: Kalorifer (Doğalgaz),: 5,: Evet,: Boş,: Yok,: 100m2,: 2+1,833.000 TL,,: Evet,,: 77303212,: 01 Mart 23,: Satılık Daire,Istanbul
+232,,: 2,: 5-10,,: 4,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 155m2,: 3+1,9.800.000 TL,,: Hayır,,: 99097757,: 10 Haziran 23,: Satılık Daire,Istanbul
+233,,: 1,: 21-25,,: 9,,,: Doğalgaz (Kombi),: 9,: Hayır,: Boş,: Yok,: 140m2,: 3+1,4.850.000 TL,,: Hayır,,: 63015092,: 09 Temmuz 23,: Satılık Daire,Istanbul
+234,,: 3,: 5-10,,: 9,,,: Merkezi Sistem (Pay Ölçer),: 9,: Evet,: Kiracılı,: Yok,: 210m2,: 4+2,23.750.000 TL,,: Hayır,,: 102703833,: 08 Mayıs 23,: Satılık Daire,Istanbul
+235,,: 1,: 1,,: Giriş Katı,,,: Kalorifer (Doğalgaz),: 5,: Evet,: Boş,: Yok,: 100m2,: 2+1,786.000 TL,,: Evet,,: 39685163,: 01 Mart 23,: Satılık Daire,Istanbul
+236,,: 1,: 5-10,,: 1,,,: Doğalgaz (Kombi),: 6,: Evet,: Boş,: Yok,: 100m2,: 2+1,1.130.000 TL,,: Hayır,,: 32700770,: 15 Şubat 23,: Satılık Daire,Istanbul
+237,,: 2,: 3,,: 1,,,: Doğalgaz (Kombi),: 3,: Evet,: Kiracılı,: Yok,: 70m2,: 2+1,3.075.000 TL,,: Hayır,,: 82365696,: 23 Ocak 23,: Satılık Daire,Istanbul
+238,,: 2,: 5-10,: 5+,: 6,: Hayır,: Evet,: Merkezi Sistem (Pay Ölçer),: 14,: Evet,: Boş,: Yok,: 97m2,: 2+1,3.350.000 TL,: Evet,: Hayır,: Var,: 34550540,: 31 Ağustos 23,: Satılık Daire,Istanbul
+239,,: 2,: 11-15,,: 3,,,: Doğalgaz (Kombi),: 8,: Evet,: Boş,: Yok,: 172m2,: 4+1,16.500.000 TL,,: Hayır,,: 27436563,: 13 Ocak 23,: Satılık Daire,Istanbul
+240,,: 2,: 5-10,,: 7,,,: Fan-Coil,: 15,: Evet,: Boş,: Yok,: 125m2,: 3+1,8.950.000 TL,,: Hayır,,: 49850674,: 08 Eylül 23,: Satılık Daire,Istanbul
+241,,: 4,: 0,,: 5,,,: Doğalgaz (Kombi),: 6,: Hayır,: Boş,: Yok,: 110m2,: 2+1,1.212.121 TL,,: Hayır,,: 90724757,: 25 Temmuz 23,: Satılık Daire,Istanbul
+242,,: 2,: 5-10,: 2,: 4,: Hayır,: Evet,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 160m2,: 4+2,4.200.000 TL,: Hayır,: Hayır,: Var,: 34595332,: 31 Ağustos 23,: Satılık Daire,Istanbul
+243,,: 3,: 5-10,,: 4,,,: Doğalgaz (Kombi),: 15,: Evet,: Boş,: Yok,: 180m2,: 3+1,5.000.000 TL,,: Hayır,,: 107483447,: 26 Şubat 23,: Satılık Daire,Istanbul
+244,,: 2,: 5-10,,: 5,,,: Merkezi Sistem,: 5,: Evet,: Boş,: Yok,: 186m2,: 4+1,9.120.000 TL,,: Hayır,,: 73272632,: 06 Kasım 23,: Satılık Daire,Istanbul
+245,,: 1,: 0,,: 2,,,: Soba,: 2,: Hayır,: Boş,: Yok,: 111m2,: Stüdyo (1+0),777.777 TL,,: Hayır,,: 85028805,: 05 Haziran 23,: Satılık Daire,Istanbul
+246,,: 1,: 5-10,,: 1,,,: Doğalgaz (Kombi),: 6,: Evet,: Boş,: Yok,: 100m2,: 2+1,1.520.000 TL,,: Hayır,,: 60728101,: 25 Şubat 23,: Satılık Daire,Istanbul
+247,,: 1,: 26-30,,: 2,,,: Doğalgaz (Kombi),: 3,: Hayır,: Kiracılı,: Yok,: 115m2,: 3+1,2.650.000 TL,,: Hayır,,: 105490245,: 24 Ocak 23,: Satılık Daire,Istanbul
+248,,: 2,: 2,,: 2,,,: Soba,: 2,: Hayır,: Boş,: Yok,: 444m2,: Stüdyo (1+0),555.555 TL,,: Hayır,,: 43662363,: 05 Haziran 23,: Satılık Daire,Istanbul
+249,,: 1,: 1,,: 4,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 4,: Evet,: Boş,: Yok,: 85m2,: 2+1,2.450.000 TL,: Evet,: Hayır,,: 34727175,: 09 Ağustos 23,: Satılık Daire,Istanbul
+250,,: 2,: 5-10,,: 5,,,: Merkezi Sistem (Pay Ölçer),: 20,: Evet,: Kiracılı,: Yok,: 160m2,: 4+1,9.100.000 TL,,: Hayır,,: 58382826,: 11 Mayıs 23,: Satılık Daire,Istanbul
+251,,: 1,: 4,,: 1,,,: Kalorifer (Doğalgaz),: 5,: Hayır,: Boş,: Yok,: 105m2,: 2+1,1.375.000 TL,,: Hayır,,: 12751096,: 25 Şubat 23,: Satılık Daire,Istanbul
+252,,: 1,: 26-30,,: 4,,,: Doğalgaz (Kombi),: 4,: Hayır,: Boş,: Yok,: 130m2,: 3+1,4.000.000 TL,,: Hayır,,: 63014784,: 07 Eylül 23,: Satılık Daire,Istanbul
+253,,: 2,: 11-15,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 220m2,: 4+1,12.582.886 TL,,: Hayır,,: 10199373,: 10 Ocak 23,: Satılık Daire,Istanbul
+254,,: 4,: 0,,: 4,,,: Merkezi Sistem (Pay Ölçer),: 25,: Evet,: Boş,: Yok,: 205m2,: 5+1,23.000.000 TL,,: Hayır,,: 94831068,: 17 Ocak 23,: Satılık Daire,Istanbul
+255,,: 1,: 5-10,,: Yüksek Giriş,,,: Doğalgaz (Kombi),: 5,: Hayır,: Mülk Sahibi,: Yok,: 55m2,: 1+1,1.795.000 TL,,: Hayır,,: 87495838,: 13 Haziran 23,: Satılık Daire,Istanbul
+256,,: 2,: 0,,: 2,,,: Yerden Isıtma,: 5,: Evet,: Boş,: Yok,: 110m2,: 2+1,11.500.000 TL,,: Hayır,,: 27202387,: 19 Eylül 23,: Satılık Daire,Istanbul
+257,,: 1,: 0,: 3,: 2,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 85m2,: 2+1,4.000.000 TL,: Hayır,: Evet,: Var,: 34313534,: 22 Kasım 23,: Satılık Daire,Istanbul
+258,,: 1,: 3,,: 4,,,: Doğalgaz (Kombi),: 6,: Evet,: Boş,: Yok,: 120m2,: 2+1,1.700.000 TL,,: Hayır,,: 67198971,: 25 Şubat 23,: Satılık Daire,Istanbul
+259,,: 2,: 21-25,,: Giriş Katı,,,: Doğalgaz (Kombi),: 3,: Evet,: Kiracılı,: Yok,: 160m2,: 3+1,9.453.298 TL,,: Hayır,,: 32541122,: 28 Ağustos 23,: Satılık Daire,Istanbul
+260,,: 2,: 16-20,,: 11,,,: Doğalgaz (Kombi),: 15,: Evet,: Mülk Sahibi,: Yok,: 145m2,: 3+1,12.698.460 TL,,: Hayır,,: 63486940,: 13 Eylül 23,: Satılık Daire,Istanbul
+261,,: 1,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 6,: Hayır,: Boş,: Yok,: 110m2,: 2+1,1.515.000 TL,,: Hayır,,: 54374007,: 25 Şubat 23,: Satılık Daire,Istanbul
+262,: 2600,: 2,: 5-10,: 4,: 13,: Hayır,: Evet,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Boş,: Yok,: 155m2,: 3+1,4.550.000 TL,: Evet,: Hayır,: Var,: 34756497,: 24 Mart 23,: Satılık Daire,Istanbul
+263,,: 1,: 5-10,,: 5,,,: Doğalgaz (Kombi),: 5,: Hayır,: Boş,: Yok,: 85m2,: 2+1,1.179.000 TL,,: Hayır,,: 21292054,: 25 Şubat 23,: Satılık Daire,Istanbul
+264,,: 6+,: 16-20,,: 2,,,: Doğalgaz (Kombi),: 3,: Evet,: Mülk Sahibi,: Yok,: 520m2,: 7+2,34.695.500 TL,,: Hayır,,: 84622299,: 13 Şubat 23,: Satılık Daire,Istanbul
+265,: 2600,: 2,: 5-10,: 4,: 8,: Hayır,: Evet,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Boş,: Yok,: 155m2,: 3+1,4.580.000 TL,: Evet,: Hayır,: Var,: 34372252,: 28 Mart 23,: Satılık Daire,Istanbul
+266,,: 2,: 2,,: 5,,,: Doğalgaz (Kombi),: 6,: Evet,: Boş,: Yok,: 155m2,: 3+1,5.950.000 TL,,: Hayır,,: 76602766,: 24 Mayıs 23,: Satılık Daire,Istanbul
+267,,: 1,: 0,,: 10,,,: Merkezi Sistem,: 20,: Evet,: Boş,: Yok,: 67m2,: 1+1,7.385.607 TL,,: Hayır,,: 38535540,: 13 Ocak 23,: Satılık Daire,Istanbul
+268,,: 3,: 0,,: 2,,,: Doğalgaz (Kombi),: 2,: Hayır,: Boş,: Yok,: 111m2,: 3+1,3.232.323 TL,,: Hayır,,: 53358799,: 05 Haziran 23,: Satılık Daire,Istanbul
+269,,: 1,: 2,,: 3,,,: Soba,: 4,: Hayır,: Mülk Sahibi,: Yok,: 111m2,: 2+0,1.212.112 TL,,: Hayır,,: 12445348,: 05 Haziran 23,: Satılık Daire,Istanbul
+270,,: 1,: 5-10,,: Yüksek Giriş,,,: Kalorifer (Doğalgaz),: 5,: Hayır,: Boş,: Yok,: 100m2,: 2+1,1.500.000 TL,,: Hayır,,: 86186076,: 15 Şubat 23,: Satılık Daire,Istanbul
+271,,: 2,: 1,,: 2,,,: Soba,: 2,: Hayır,: Boş,: Yok,: 110m2,: Stüdyo (1+0),111.122 TL,,: Hayır,,: 85680072,: 05 Haziran 23,: Satılık Daire,Istanbul
+272,,: 1,: 5-10,,: 1,,,: Doğalgaz (Kombi),: 6,: Evet,: Boş,: Yok,: 100m2,: 2+1,1.150.000 TL,,: Hayır,,: 52292547,: 15 Şubat 23,: Satılık Daire,Istanbul
+273,,: 2,: 1,,: 2,,,: Doğalgaz (Kombi),: 2,: Hayır,: Boş,: Yok,: 22m2,: 2+1,12.121.212 TL,,: Hayır,,: 36939961,: 31 Mayıs 23,: Satılık Daire,Istanbul
+274,,: 2,: 4,,: 27,,,: Merkezi Sistem,: 30+,: Hayır,: Kiracılı,: Yok,: 135m2,: 3+1,5.058.504 TL,,: Hayır,,: 71965742,: 02 Mayıs 23,: Satılık Daire,Istanbul
+275,,: 2,: 5-10,,: 4,,,: Doğalgaz (Kombi),: 5,: Hayır,: Mülk Sahibi,: Yok,: 190m2,: 4+2,14.000.000 TL,,: Hayır,,: 14993139,: 13 Haziran 23,: Satılık Daire,Istanbul
+276,,: 1,: 5-10,,: 1,,,: Doğalgaz (Kombi),: 6,: Evet,: Boş,: Yok,: 100m2,: 2+1,1.375.000 TL,,: Hayır,,: 41559194,: 15 Şubat 23,: Satılık Daire,Istanbul
+277,,: 1,: 2,,: 2,,,: Soba,: 3,: Hayır,: Boş,: Yok,: 110m2,: 1+1,111.111 TL,,: Hayır,,: 66027544,: 22 Mayıs 23,: Satılık Daire,Istanbul
+278,,: 3,: 5-10,,: 1,,,: Doğalgaz (Kombi),: 8,: Evet,: Boş,: Yok,: 175m2,: 3+1,3.250.000 TL,,: Hayır,,: 34889570,: 14 Şubat 23,: Satılık Daire,Istanbul
+279,,: 2,: 11-15,,: 1,,,: Merkezi Sistem,: 3,: Evet,: Mülk Sahibi,: Yok,: 210m2,: 4+1,21.164.100 TL,,: Hayır,,: 44579959,: 26 Nisan 23,: Satılık Daire,Istanbul
+280,,: 3,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 8,: Evet,: Boş,: Yok,: 175m2,: 3+1,3.500.000 TL,,: Hayır,,: 49090096,: 14 Şubat 23,: Satılık Daire,Istanbul
+281,,: 3,: 0,,: 2,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 155m2,: 3+1,2.200.000 TL,,: Hayır,,: 70359825,: 14 Şubat 23,: Satılık Daire,Istanbul
+282,,: 2,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 3,: Evet,: Mülk Sahibi,: Yok,: 95m2,: 3+1,2.875.000 TL,,: Hayır,,: 21641284,: 05 Haziran 23,: Satılık Daire,Istanbul
+283,,: 3,: 0,,: 2,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 160m2,: 3+1,2.200.000 TL,,: Hayır,,: 29483314,: 13 Şubat 23,: Satılık Daire,Istanbul
+284,,: 1,: 30+,,: 11,,,: Merkezi Sistem,: 15,: Evet,: Mülk Sahibi,: Yok,: 115m2,: 3+1,8.500.000 TL,,: Hayır,,: 47119800,: 23 Ocak 23,: Satılık Daire,Istanbul
+285,,: 1,: 0,,: 2,,,: Doğalgaz (Kombi),: 4,: Evet,: Mülk Sahibi,: Yok,: 80m2,: 2+1,7.850.000 TL,,: Hayır,,: 59731919,: 04 Temmuz 23,: Satılık Daire,Istanbul
+286,,: 2,: 4,,: 3,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 100m2,: 2+1,2.485.000 TL,,: Hayır,,: 86152793,: 12 Şubat 23,: Satılık Daire,Istanbul
+287,,: 3,: 5-10,,: 3,,,: Yerden Isıtma,: 3,: Evet,: Boş,: Yok,: 270m2,: 4+2,33.556.800 TL,,: Hayır,,: 96268065,: 25 Ocak 23,: Satılık Daire,Istanbul
+288,,: 2,: 0,,: 2,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 105m2,: 2+1,4.400.000 TL,,: Hayır,,: 104866895,: 13 Şubat 23,: Satılık Daire,Istanbul
+289,,: 2,: 0,,: 6,,,: Doğalgaz (Kombi),: 15,: Hayır,: Boş,: Yok,: 68m2,: 2+1,5.340.000 TL,,: Hayır,,: 106678606,: 27 Eylül 23,: Satılık Daire,Istanbul
+290,,: 2,: 16-20,,: 4,,,: Doğalgaz (Kombi),: 20,: Evet,: Kiracılı,: Yok,: 200m2,: 4+1,40.000.000 TL,,: Hayır,,: 38907849,: 20 Eylül 23,: Satılık Daire,Istanbul
+291,,: 2,: 0,,: 3,,,: Doğalgaz (Kombi),: 5,: Hayır,: Boş,: Yok,: 96m2,: 4+1,6.300.000 TL,,: Hayır,,: 28744651,: 26 Eylül 23,: Satılık Daire,Istanbul
+292,,: 2,: 4,,: 3,,,: Doğalgaz (Kombi),: 15,: Evet,: Mülk Sahibi,: Yok,: 100m2,: 3+1,4.500.000 TL,,: Hayır,,: 13861512,: 17 Mayıs 23,: Satılık Daire,Istanbul
+293,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 69767670,: 28 Temmuz 23,: Satılık Daire,Istanbul
+294,,: 2,: 0,,: 7,,,: Merkezi Sistem,: 15,: Evet,: Boş,: Yok,: 90m2,: 2+1,9.800.000 TL,,: Hayır,,: 23413175,: 01 Eylül 23,: Satılık Daire,Istanbul
+295,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 46354263,: 28 Temmuz 23,: Satılık Daire,Istanbul
+296,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 77671332,: 28 Temmuz 23,: Satılık Daire,Istanbul
+297,,: 2,: 11-15,,: 7,,,: Doğalgaz (Kombi),: 29,: Hayır,: Boş,: Yok,: 130m2,: 3+1,4.000.000 TL,,: Hayır,,: 49005620,: 14 Eylül 23,: Satılık Daire,Istanbul
+298,,: 2,: 11-15,,: Çatı Katı,,,: Doğalgaz (Kombi),: 3,: Hayır,: Mülk Sahibi,: Yok,: 130m2,: 2+2,2.865.000 TL,,: Hayır,,: 29892607,: 22 Mart 23,: Satılık Daire,Istanbul
+299,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 81452303,: 28 Temmuz 23,: Satılık Daire,Istanbul
+300,,: 1,: 0,,: 4,,,: Doğalgaz (Kombi),: 10,: Evet,: Boş,: Yok,: 80m2,: 2+1,4.000.000 TL,,: Hayır,,: 36811513,: 07 Eylül 23,: Satılık Daire,Istanbul
+301,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 82507045,: 28 Temmuz 23,: Satılık Daire,Istanbul
+302,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 98075041,: 28 Temmuz 23,: Satılık Daire,Istanbul
+303,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 104895187,: 28 Temmuz 23,: Satılık Daire,Istanbul
+304,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 63449969,: 28 Temmuz 23,: Satılık Daire,Istanbul
+305,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 102624592,: 28 Temmuz 23,: Satılık Daire,Istanbul
+306,,: 2,: 0,,: 6,,,: Doğalgaz (Kombi),: 7,: Hayır,: Boş,: Yok,: 120m2,: 2+1,6.423.960 TL,,: Hayır,,: 78468091,: 03 Ağustos 23,: Satılık Daire,Istanbul
+307,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 16183905,: 28 Temmuz 23,: Satılık Daire,Istanbul
+308,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 45235575,: 28 Temmuz 23,: Satılık Daire,Istanbul
+309,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 79257345,: 28 Temmuz 23,: Satılık Daire,Istanbul
+310,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 100779570,: 28 Temmuz 23,: Satılık Daire,Istanbul
+311,,: 1,: 16-20,: 2,: Çatı Katı,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 85m2,: 2+1,2.550.000 TL,: Hayır,: Hayır,: Var,: 34348623,: 11 Aralık 23,: Satılık Daire,Istanbul
+312,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 28891888,: 28 Temmuz 23,: Satılık Daire,Istanbul
+313,,: 1,: 11-15,: 2,: 1,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 85m2,: 2+1,3.150.000 TL,: Hayır,: Hayır,: Var,: 34535623,: 11 Aralık 23,: Satılık Daire,Istanbul
+314,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 99640582,: 28 Temmuz 23,: Satılık Daire,Istanbul
+315,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 85012556,: 28 Temmuz 23,: Satılık Daire,Istanbul
+316,,: 1,: 21-25,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 6,: Hayır,: Kiracılı,: Yok,: 110m2,: 3+1,2.950.000 TL,,: Hayır,,: 67386867,: 28 Temmuz 23,: Satılık Daire,Istanbul
+317,,: 1,: 30+,,: 1,,,: Doğalgaz (Kombi),: 2,: Evet,: Boş,: Yok,: 100m2,: 2+1,7.200.000 TL,,: Hayır,,: 55874710,: 18 Ağustos 23,: Satılık Daire,Istanbul
+318,,: 1,: 30+,,: 2,,,: Doğalgaz (Kombi),: 3,: Hayır,: Kiracılı,: Yok,: 72m2,: 2+1,2.600.000 TL,,: Hayır,,: 40552844,: 18 Ekim 23,: Satılık Daire,Istanbul
+319,,: 1,: 11-15,: 2,: 3,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 80m2,: 2+1,2.850.000 TL,: Hayır,: Hayır,: Var,: 34674643,: 15 Ekim 23,: Satılık Daire,Istanbul
+320,,: 2,: 26-30,: 1,: 5,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 240m2,: 4+2,7.500.000 TL,: Hayır,: Hayır,: Var,: 34268000,: 11 Ekim 23,: Satılık Daire,Istanbul
+321,,: 1,: 4,: 2,: 1,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Mülk Sahibi,: Yok,: 80m2,: 2+1,2.550.000 TL,: Hayır,: Hayır,: Var,: 34233077,: 24 Ağustos 23,: Satılık Daire,Istanbul
+322,,: 1,: 3,,: Bodrum Kat,,,: Doğalgaz (Kombi),: 5,: Evet,: Boş,: Yok,: 78m2,: 2+1,1.850.000 TL,,: Hayır,,: 54393974,: 08 Eylül 23,: Satılık Daire,Istanbul
+323,,: 1,: 5-10,,: 1,,,: Merkezi Sistem,: 20,: Evet,: Kiracılı,: Yok,: 100m2,: 2+1,7.650.000 TL,,: Hayır,,: 104978564,: 31 Temmuz 23,: Satılık Daire,Istanbul
+324,,: 1,: 0,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 5,: Hayır,: Boş,: Yok,: 100m2,: 2+1,1.649.000 TL,,: Hayır,,: 87439738,: 25 Nisan 23,: Satılık Daire,Istanbul
+325,,: 1,: 26-30,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 85m2,: 3+1,8.950.000 TL,,: Hayır,,: 108090226,: 16 Haziran 23,: Satılık Daire,Istanbul
+326,,: 1,: 3,,: 3,: Evet,,: Doğalgaz (Kombi),: 7,,: Mülk Sahibi,: Yok,: 145m2,: 3+1,17.000.000 TL,: Evet,: Hayır,,: 34569341,: 20 Ağustos 23,: Satılık Daire,Istanbul
+327,,: 2,: 16-20,,: Giriş Katı,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 150m2,: 3+1,7.500.000 TL,,: Hayır,,: 18398827,: 15 Şubat 23,: Satılık Daire,Istanbul
+328,,: 2,: 5-10,,: 2,,,: Doğalgaz (Kombi),: 5,: Hayır,: Boş,: Yok,: 72m2,: 2+1,2.870.000 TL,,: Hayır,,: 30958455,: 20 Haziran 23,: Satılık Daire,Istanbul
+329,,: 2,: 0,,: 7,,,: Merkezi Sistem,: 9,: Hayır,: Boş,: Yok,: 150m2,: 4+1,14.213.820 TL,,: Hayır,,: 72681409,: 13 Haziran 23,: Satılık Daire,Istanbul
+330,: 2200,: 2,: 5-10,: 5+,: 2,: Hayır,: Hayır,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Kiracılı,: Yok,: 95m2,: 2+1,4.500.000 TL,: Evet,: Hayır,: Var,: 34454859,: 02 Ekim 23,: Satılık Daire,Istanbul
+331,,: 2,: 11-15,,: Bahçe Katı,,,: Doğalgaz (Kombi),: 3,: Evet,: Mülk Sahibi,: Yok,: 120m2,: 3+1,9.500.000 TL,,: Hayır,,: 62212427,: 30 Mayıs 23,: Satılık Daire,Istanbul
+332,,: 2,: 16-20,,: 5,,,: Doğalgaz (Kombi),: 5,: Hayır,: Kiracılı,: Yok,: 95m2,: 3+1,1.850.000 TL,,: Hayır,,: 30911184,: 30 Nisan 23,: Satılık Daire,Istanbul
+333,,: 1,: 21-25,,: 1,,,: Doğalgaz (Kombi),: 5,: Hayır,: Kiracılı,: Yok,: 75m2,: 2+1,1.500.000 TL,,: Hayır,,: 52187410,: 04 Ekim 22,: Satılık Daire,Istanbul
+334,: 20,: 1,: 30+,: 5+,: 5,: Evet,: Evet,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 100m2,: 2+1,2.550.000 TL,: Hayır,: Evet,: Var,: 109083579,: 30 Aralık 22,: Satılık Daire,Istanbul
+335,: 1358,: 2,: 11-15,: 2,: 3,: Hayır,: Evet,: Doğalgaz (Kombi),: 4,: Evet,: Mülk Sahibi,: Yok,: 136m2,: 3+1,14.100.000 TL,: Evet,: Hayır,: Var,: 95530044,: 29 Kasım 22,: Satılık Daire,Istanbul
+336,,: 1,: 5-10,: 5+,: 10,: Hayır,: Hayır,: Doğalgaz (Kombi),: 19,: Hayır,: Boş,: Yok,: 70m2,: 1+1,1.600.000 TL,: Evet,: Hayır,: Var,: 34774272,: 22 Kasım 22,: Satılık Daire,Istanbul
+337,,: 1,: 30+,,: 4,,,: Doğalgaz (Kombi),: 4,: Evet,: Kiracılı,: Yok,: 58m2,: 2+1,2.775.000 TL,,: Hayır,,: 104628630,: 17 Ağustos 22,: Satılık Daire,Istanbul
+338,,: 2,: 1,,: 6,,,: Doğalgaz (Kombi),: 6,: Evet,: Mülk Sahibi,: Yok,: 115m2,: 2+1,5.500.000 TL,,: Hayır,,: 11144220,: 02 Aralık 22,: Satılık Daire,Istanbul
+339,,: 2,: 0,,: 1,,,: Doğalgaz (Kombi),: 4,: Hayır,: Boş,: Yok,: 180m2,: 4+1,23.005.393 TL,,: Hayır,,: 76401510,: 14 Ekim 22,: Satılık Daire,Istanbul
+340,,: 1,: 5-10,,: 2,,,: Doğalgaz (Kombi),: 3,: Evet,: Kiracılı,: Yok,: 100m2,: 2+1,2.275.000 TL,,: Hayır,,: 107082908,: 05 Ağustos 22,: Satılık Daire,Istanbul
+341,,: 2,: 0,,: 2,,,: Yerden Isıtma,: 4,: Hayır,: Boş,: Yok,: 280m2,: 3+1,37.031.635 TL,,: Hayır,,: 106266759,: 18 Ekim 22,: Satılık Daire,Istanbul
+342,,: 2,: 5-10,,: 11,,,: Merkezi Sistem (Pay Ölçer),: 20,: Evet,: Kiracılı,: Yok,: 163m2,: 3+1,3.200.000 TL,,: Hayır,,: 77781096,: 05 Aralık 22,: Satılık Daire,Istanbul
+343,,: 1,: 5-10,,: 11,,,: Merkezi Sistem,: 30+,: Evet,: Mülk Sahibi,: Yok,: 108m2,: 3+1,13.560.000 TL,,: Hayır,,: 20730751,: 22 Kasım 22,: Satılık Daire,Istanbul
+344,,: 1,: 5-10,,: 7,,,: Merkezi Sistem (Pay Ölçer),: 9,: Evet,: Kiracılı,: Yok,: 58m2,: 1+1,2.300.000 TL,,: Hayır,,: 77873160,: 04 Ağustos 22,: Satılık Daire,Istanbul
+345,,: 1,: 26-30,,: 5,,,: Merkezi Sistem,: 5,: Evet,: Kiracılı,: Yok,: 92m2,: 3+1,5.900.000 TL,,: Hayır,,: 73057754,: 06 Ekim 22,: Satılık Daire,Istanbul
+346,,: 2,: 4,,: 1,,,: Doğalgaz (Kombi),: 1,: Hayır,: Mülk Sahibi,: Yok,: 165m2,: 3+1,85.072.675 TL,,: Hayır,,: 55602050,: 15 Eylül 22,: Satılık Daire,Istanbul
+347,,: 2,: 2,,: 6,,,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Kiracılı,: Yok,: 100m2,: 3+1,19.000.000 TL,,: Hayır,,: 99718837,: 15 Aralık 22,: Satılık Daire,Istanbul
+348,,: 1,: 1,,: 1,,,: Doğalgaz (Kombi),: 8,: Hayır,: Boş,: Yok,: 70m2,: 2+1,1.400.000 TL,,: Hayır,,: 87501190,: 02 Kasım 22,: Satılık Daire,Istanbul
+349,,: 1,: 21-25,,: 5,,,: Doğalgaz Sobası,: 5,: Hayır,: Kiracılı,: Yok,: 115m2,: 3+1,1.800.000 TL,,: Hayır,,: 66809989,: 29 Temmuz 22,: Satılık Daire,Istanbul
+350,,: 2,: 5-10,,: 11,,,: Merkezi Sistem (Pay Ölçer),: 25,: Evet,: Kiracılı,: Yok,: 85m2,: 2+1,3.500.000 TL,,: Hayır,,: 50662491,: 19 Ağustos 22,: Satılık Daire,Istanbul
+351,,: 1,: 26-30,,: 1,,,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 95m2,: 3+1,1.850.000 TL,,: Hayır,,: 29552815,: 05 Aralık 22,: Satılık Daire,Istanbul
+352,,: 1,: 0,,: 10,,,: Kalorifer (Doğalgaz),: 10,: Evet,: Boş,: Yok,: 100m2,: 2+1,3.620.000 TL,,: Hayır,,: 79339303,: 16 Şubat 22,: Satılık Daire,Istanbul
+353,,: 1,: 30+,,: 1,,,: Merkezi Sistem (Pay Ölçer),: 2,: Evet,: Kiracılı,: Yok,: 145m2,: 3+1,9.750.000 TL,,: Hayır,,: 42641313,: 05 Şubat 22,: Satılık Daire,Istanbul
+354,: 50,: 1,: 16-20,: 2,: Giriş Katı,: Hayır,: Hayır,: Doğalgaz (Kombi),: 3,: Hayır,: Kiracılı,: Yok,: 100m2,: 2+1,3.350.000 TL,: Hayır,: Hayır,: Var,: 34227993,: 10 Ekim 22,: Satılık Daire,Istanbul
+355,,: 3,: 5-10,,: Çatı Katı,,,: Merkezi Sistem,: 30+,: Evet,: Boş,: Yok,: 530m2,: 4+1,105.000.000 TL,,: Hayır,,: 28024305,: 28 Haziran 22,: Satılık Daire,Istanbul
+356,,: 1,: 30+,,: 5,,,: Klima,: 6,: Evet,: Mülk Sahibi,: Yok,: 82m2,: 1+1,14.000.000 TL,,: Hayır,,: 91728147,: 28 Haziran 22,: Satılık Daire,Istanbul
+357,,: 1,: 11-15,: 1,: 1,: Hayır,: Hayır,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 120m2,: 2+1,3.500.000 TL,: Hayır,: Hayır,: Var,: 34779792,: 06 Aralık 22,: Satılık Daire,Istanbul
+358,,: 2,: 0,,: 9,,,: Doğalgaz (Kombi),: 10,: Evet,: Boş,: Yok,: 97m2,: 3+1,3.400.000 TL,,: Hayır,,: 34389045,: 14 Kasım 22,: Satılık Daire,Istanbul
+359,,: 4,: 11-15,,: 2,,,: Doğalgaz (Kombi),: 3,: Evet,: Boş,: Yok,: 320m2,: 5+2,24.618.690 TL,,: Hayır,,: 13786428,: 15 Ekim 22,: Satılık Daire,Istanbul
+360,,: 4,: 0,,: Giriş Katı,,,: Doğalgaz (Kombi),: 2,: Hayır,: Boş,: Yok,: 210m2,: 5+1,24.345.149 TL,,: Hayır,,: 43221854,: 30 Kasım 22,: Satılık Daire,Istanbul
+361,,: 3,: 5-10,,: 3,,,: Merkezi Sistem (Pay Ölçer),: 5,: Evet,: Mülk Sahibi,: Yok,: 200m2,: 3+1,30.089.510 TL,,: Hayır,,: 108512899,: 18 Ekim 22,: Satılık Daire,Istanbul
+362,,: 2,: 4,: 5+,: 3,: Hayır,: Evet,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Boş,: Yok,: 101m2,: 3+1,3.850.000 TL,: Evet,: Hayır,: Var,: 34753015,: 09 Kasım 22,: Satılık Daire,Istanbul
+363,,: 6+,: 5-10,,: 5,,,: Merkezi Sistem (Pay Ölçer),: 6,: Evet,: Kiracılı,: Yok,: 390m2,: 7+2,75.223.775 TL,,: Hayır,,: 42997295,: 24 Ekim 22,: Satılık Daire,Istanbul
+364,: 2100,: 1,: 5-10,: 5+,: 6,: Hayır,: Evet,: Merkezi Sistem (Pay Ölçer),: 16,: Evet,: Boş,: Yok,: 90m2,: 2+1,2.850.000 TL,: Evet,: Hayır,: Var,: 34235757,: 15 Eylül 22,: Satılık Daire,Istanbul
+365,,: 2,: 5-10,,: Bahçe Katı,,,: Merkezi Sistem (Pay Ölçer),: 5,: Hayır,: Mülk Sahibi,: Yok,: 130m2,: 3+1,3.550.000 TL,,: Hayır,,: 48000597,: 13 Ekim 22,: Satılık Daire,Istanbul
+366,,: 5,: 30+,,: 3,,,: Doğalgaz (Kombi),: 4,: Evet,: Boş,: Yok,: 450m2,: 5+2,60.179.020 TL,,: Hayır,,: 98863132,: 24 Ekim 22,: Satılık Daire,Istanbul
+367,,: 2,: 4,: 4,: 4,: Hayır,: Hayır,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Kiracılı,: Yok,: 150m2,: 3+1,4.300.000 TL,: Evet,: Hayır,: Var,: 34668428,: 27 Temmuz 22,: Satılık Daire,Istanbul
+368,,: 2,: 16-20,,: 2,,,: Merkezi Sistem,: 6,: Evet,: Boş,: Yok,: 15m2,: 2+1,5.000 TL,,: Evet,,: 96627630,: 06 Haziran 22,: Satılık Daire,Istanbul
+369,: Belirtilmemiş,: 2,: 3,,: 6,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Boş,: Yok,: 101m2,: 3+1,3.500.000 TL,: Evet,: Hayır,,: 34170074,: 06 Nisan 22,: Satılık Daire,Istanbul
+370,: 1800,: 1,: 3,,: 13,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 16,: Evet,: Kiracılı,: Yok,: 70m2,: 1+1,2.500.000 TL,: Evet,: Hayır,,: 34341416,: 06 Nisan 22,: Satılık Daire,Istanbul
+371,: Belirtilmemiş,: 2,: 4,,: 9,: Evet,,: Merkezi Sistem (Pay Ölçer),: 16,: Evet,: Boş,: Yok,: 135m2,: 3+1,4.100.000 TL,: Evet,: Hayır,,: 34382837,: 06 Nisan 22,: Satılık Daire,Istanbul
+372,,: 2,: 3,,: Giriş Katı,,,: Doğalgaz (Kombi),: 3,: Hayır,: Boş,: Yok,: 140m2,: 3+1,15.000.000 TL,,: Hayır,,: 86207784,: 14 Eylül 22,: Satılık Daire,Istanbul
+373,,: 1,: 4,,: 4,,,: Doğalgaz (Kombi),: 4,: Hayır,: Boş,: Yok,: 75m2,: 2+1,2.900.000 TL,,: Hayır,,: 91729039,: 27 Temmuz 22,: Satılık Daire,Istanbul
+374,: Belirtilmemiş,: 2,: 4,,: 11,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 16,: Hayır,: Boş,: Yok,: 155m2,: 3+1,4.500.000 TL,: Evet,: Hayır,,: 34423406,: 09 Haziran 22,: Satılık Daire,Istanbul
+375,: Belirtilmemiş,: 2,: 4,,: 8,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Boş,: Yok,: 135m2,: 3+1,4.300.000 TL,: Evet,: Hayır,,: 34549968,: 06 Nisan 22,: Satılık Daire,Istanbul
+376,,: 2,: 5-10,,: 11,,,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Boş,: Yok,: 82m2,: 2+1,1.450.000 TL,,: Hayır,,: 77348516,: 09 Ağustos 22,: Satılık Daire,Istanbul
+377,,: 1,: 4,,: 3,,,: Merkezi Sistem,: 4,: Hayır,: Mülk Sahibi,: Yok,: 90m2,: 1+1,123.456 TL,,: Hayır,,: 91480955,: 25 Kasım 22,: Satılık Daire,Istanbul
+378,,: 1,: 3,,: 1,,,: Soba,: 3,: Hayır,: Kiracılı,: Yok,: 90m2,: Stüdyo (1+0),21.212.121 TL,,: Hayır,,: 34177143,: 26 Eylül 22,: Satılık Daire,Istanbul
+379,,: 1,: 4,,: Bahçe Katı,,,: Merkezi Sistem,: 4,: Hayır,: Boş,: Yok,: 110m2,: 3+1,2.796.400 TL,,: Hayır,,: 73663039,: 21 Ekim 22,: Satılık Daire,Istanbul
+380,,: 2,: 4,: 4,: 9,: Hayır,: Hayır,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Boş,: Yok,: 135m2,: 3+1,4.300.000 TL,: Evet,: Hayır,: Var,: 34235611,: 10 Kasım 22,: Satılık Daire,Istanbul
+381,,: 1,: 5-10,,: 2,,,: Soba,: 2,: Hayır,: Boş,: Yok,: 90m2,: 1+1,1.000 TL,,: Hayır,,: 20533456,: 29 Ağustos 22,: Satılık Daire,Istanbul
+382,,: 1,: 5-10,: 5+,: 10,: Hayır,: Evet,: Doğalgaz (Kombi),: 19,: Hayır,: Boş,: Yok,: 60m2,: 1+1,1.250.000 TL,: Evet,: Hayır,: Var,: 34180545,: 08 Kasım 22,: Satılık Daire,Istanbul
+383,,: 2,: 0,,: 1,,,: Doğalgaz (Kombi),: 6,: Evet,: Boş,: Yok,: 215m2,: 5+1,15.500.000 TL,,: Hayır,,: 31040312,: 24 Temmuz 22,: Satılık Daire,Istanbul
+384,,: 1,: 30+,,: 3,,,: Doğalgaz (Kombi),: 5,: Evet,: Kiracılı,: Yok,: 110m2,: 3+1,3.500.000 TL,,: Hayır,,: 84816945,: 02 Temmuz 22,: Satılık Daire,Istanbul
+385,,: 2,: 0,,: 11,,,: Merkezi Sistem (Pay Ölçer),: 30+,: Hayır,: Boş,: Yok,: 134m2,: 3+1,4.850.000 TL,,: Hayır,,: 86949540,: 13 Temmuz 22,: Satılık Daire,Istanbul
+386,,: 2,: 0,,: 6,,,: Merkezi Sistem,: 30+,: Hayır,: Boş,: Yok,: 134m2,: 3+1,4.560.000 TL,,: Hayır,,: 86010452,: 13 Temmuz 22,: Satılık Daire,Istanbul
+387,,: 1,: 4,: 5+,: 15,: Evet,,: Merkezi Sistem (Pay Ölçer),: 16,: Evet,: Boş,: Yok,: 85m2,: 2+1,2.850.000 TL,: Evet,: Hayır,: Var,: 34629102,: 07 Kasım 22,: Satılık Daire,Istanbul
+388,,: 2,: 11-15,,: 3,,,: Doğalgaz (Kombi),: 15,: Evet,: Kiracılı,: Yok,: 115m2,: 3+1,3.950.000 TL,,: Hayır,,: 55921412,: 27 Mayıs 22,: Satılık Daire,Istanbul
+389,,: 1,: 0,,: 16,,,: Merkezi Sistem (Pay Ölçer),: 30+,: Evet,: Kiracılı,: Yok,: 60m2,: 1+1,1.600.000 TL,,: Hayır,,: 12197056,: 20 Mayıs 22,: Satılık Daire,Istanbul
+390,: Belirtilmemiş,: 2,: 3,,: 7,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Boş,: Yok,: 155m2,: 3+1,4.515.000 TL,: Evet,: Hayır,,: 34561899,: 09 Haziran 22,: Satılık Daire,Istanbul
+391,: Belirtilmemiş,: 2,: 0,,: Giriş Katı,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Boş,: Yok,: 155m2,: 3+1,4.650.000 TL,: Evet,: Hayır,,: 34701848,: 09 Haziran 22,: Satılık Daire,Istanbul
+392,: Belirtilmemiş,: 2,: 0,,: 2,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Boş,: Yok,: 150m2,: 3+1,4.250.000 TL,: Evet,: Hayır,,: 34591776,: 09 Haziran 22,: Satılık Daire,Istanbul
+393,,: 2,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 4,: Evet,: Mülk Sahibi,: Yok,: 135m2,: 3+1,1.950.000 TL,,: Hayır,,: 99164706,: 13 Haziran 22,: Satılık Daire,Istanbul
+394,,: 1,: 5-10,: 5+,: 13,: Hayır,: Evet,: Doğalgaz (Kombi),: 20,: Hayır,: Boş,: Yok,: 50m2,: 1+1,1.200.000 TL,: Evet,: Hayır,: Yok,: 34506139,: 03 Ocak 22,: Satılık Daire,Istanbul
+395,,: 1,: 30+,,: 2,,,: Doğalgaz (Kombi),: 4,: Evet,: Mülk Sahibi,: Yok,: 78m2,: 2+1,4.000.000 TL,,: Hayır,,: 80678011,: 22 Ağustos 22,: Satılık Daire,Istanbul
+396,,: 1,: 0,,: 5,,,: Merkezi Sistem,: 5,: Hayır,: Boş,: Yok,: 78m2,: 2+1,9.674.471 TL,,: Hayır,,: 17789868,: 27 Ağustos 22,: Satılık Daire,Istanbul
+397,: Belirtilmemiş,: 2,: 4,,: Giriş Katı,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Mülk Sahibi,: Yok,: 135m2,: 3+1,4.250.000 TL,: Evet,: Hayır,,: 34598759,: 09 Haziran 22,: Satılık Daire,Istanbul
+398,,: 2,: 11-15,,: 5,,,: Doğalgaz (Kombi),: 5,: Hayır,: Kiracılı,: Yok,: 136m2,: 3+1,17.500.000 TL,,: Hayır,,: 104700592,: 20 Mayıs 22,: Satılık Daire,Istanbul
+399,: 380,: 1,: 2,,: 2,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 16,: Evet,: Boş,: Yok,: 70m2,: 1+1,2.300.000 TL,: Evet,: Hayır,,: 34477256,: 08 Haziran 22,: Satılık Daire,Istanbul
+400,,: 2,: 5-10,,: 10,: Hayır,,: Merkezi Sistem,: 15,: Evet,: Boş,: Yok,: 140m2,: 3+1,4.400.000 TL,: Evet,: Hayır,,: 34704152,: 08 Haziran 22,: Satılık Daire,Istanbul
+401,: Belirtilmemiş,: 1,: 3,,: 3,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 16,: Evet,: Boş,: Yok,: 70m2,: 1+1,2.900.000 TL,: Evet,: Hayır,,: 34766209,: 08 Haziran 22,: Satılık Daire,Istanbul
+402,,: 1,: 5-10,,: 1,,,: Doğalgaz (Kombi),: 6,: Evet,: Kiracılı,: Yok,: 90m2,: 2+1,2.500.000 TL,,: Hayır,,: 51001222,: 11 Kasım 22,: Satılık Daire,Istanbul
+403,,: 3,: 5-10,,: 3,,,: Doğalgaz (Kombi),: 3,: Hayır,: Boş,: Yok,: 180m2,: 4+2,2.890.000 TL,,: Hayır,,: 40709676,: 25 Ekim 22,: Satılık Daire,Istanbul
+404,,: 1,: 4,: 5+,: 8,: Hayır,: Evet,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Kiracılı,: Yok,: 60m2,: 2+1,2.850.000 TL,: Evet,: Hayır,: Var,: 34312618,: 03 Ocak 22,: Satılık Daire,Istanbul
+405,,: 2,: 3,,: 7,: Hayır,,: Merkezi Sistem,: 17,: Evet,: Mülk Sahibi,: Yok,: 156m2,: 3+1,4.350.000 TL,: Evet,: Hayır,,: 34772636,: 06 Nisan 22,: Satılık Daire,Istanbul
+406,,: 1,: 1,,: 11,,,: Yerden Isıtma,: 15,: Evet,: Kiracılı,: Yok,: 50m2,: 1+1,1.385.000 TL,,: Hayır,,: 30025759,: 24 Nisan 22,: Satılık Daire,Istanbul
+407,: Belirtilmemiş,: 2,: 3,,: 13,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 15,: Evet,: Boş,: Yok,: 110m2,: 3+1,3.800.000 TL,: Evet,: Hayır,,: 34525877,: 06 Nisan 22,: Satılık Daire,Istanbul
+408,,: 1,: 21-25,,: Giriş Katı,,,: Doğalgaz (Kombi),: 2,: Evet,: Boş,: Yok,: 150m2,: 3+1,4.950.000 TL,,: Hayır,,: 90287826,: 14 Ekim 22,: Satılık Daire,Istanbul
+409,,: 1,: 16-20,,: Giriş Katı,,,: Doğalgaz (Kombi),: 6,: Evet,: Kiracılı,: Yok,: 80m2,: 2+1,2.000.000 TL,,: Hayır,,: 65151323,: 14 Ekim 22,: Satılık Daire,Istanbul
+410,,: 1,: 0,,: 2,,,: Merkezi Sistem,: 15,: Evet,: Boş,: Yok,: 55m2,: 1+1,2.600.000 TL,,: Hayır,,: 11901541,: 09 Eylül 22,: Satılık Daire,Istanbul
+411,,: 2,: 30+,,: Bahçe Katı,,,: Merkezi Sistem,: 3,: Evet,: Boş,: Yok,: 100m2,: 3+1,9.250.000 TL,,: Hayır,,: 61977624,: 28 Eylül 22,: Satılık Daire,Istanbul
+412,,: 1,: 21-25,: 4,: 2,: Hayır,: Hayır,: Doğalgaz (Kombi),: 4,: Evet,: Mülk Sahibi,: Yok,: 150m2,: 3+1,2.400.000 TL,: Hayır,: Hayır,: Var,: 34525947,: 07 Ocak 21,: Satılık Daire,Istanbul
+413,,: 1,: 3,,: 3,,,: Yerden Isıtma,: 15,: Evet,: Kiracılı,: Yok,: 80m2,: 2+1,4.425.000 TL,,: Hayır,,: 108357961,: 09 Mart 21,: Satılık Daire,Istanbul
+414,,: 2,: 5-10,: 4,: 17,: Hayır,,: Merkezi Sistem,: 17,: Evet,: Boş,: Yok,: 174m2,: 3+1,4.000.000 TL,: Evet,: Hayır,,: 34244127,: 04 Kasım 21,: Satılık Daire,Istanbul
+415,,: 1,: 30+,,: 1,,,: Merkezi Sistem,: 5,: Evet,: Kiracılı,: Yok,: 80m2,: 2+1,3.300.000 TL,,: Hayır,,: 105216101,: 30 Aralık 21,: Satılık Daire,Istanbul
+416,,: 1,: 5-10,,: 1,,,: Yerden Isıtma,: 5,: Evet,: Kiracılı,: Yok,: 55m2,: 1+1,1.735.000 TL,,: Hayır,,: 34983528,: 27 Aralık 21,: Satılık Daire,Istanbul
+417,,: 1,: 30+,,: 4,,,: Doğalgaz (Kombi),: 4,: Hayır,: Mülk Sahibi,: Yok,: 107m2,: 3+1,550.000 TL,,: Hayır,,: 50801491,: 27 Aralık 21,: Satılık Daire,Istanbul
+418,: 480,: 2,: 4,: 5+,: 9,: Hayır,: Hayır,: Merkezi Sistem (Pay Ölçer),: 17,: Evet,: Boş,: Yok,: 130m2,: 3+1,4.300.000 TL,: Evet,: Hayır,: Var,: 34585993,: 08 Kasım 21,: Satılık Daire,Istanbul
+419,,: 1,: 21-25,,: Yüksek Giriş,,,: Doğalgaz Sobası,: 6,: Evet,: Kiracılı,: Yok,: 50m2,: 1+1,325.000 TL,,: Hayır,,: 21709228,: 14 Aralık 20,: Satılık Daire,Istanbul
+420,,: 2,: 30+,,: 4,,,: Doğalgaz (Kombi),: 4,: Hayır,: Kiracılı,: Yok,: 165m2,: 4+1,11.000.000 TL,,: Hayır,,: 67190883,: 13 Kasım 20,: Satılık Daire,Istanbul
+421,,: 1,: 30+,,: 1,,,: Merkezi Sistem,: 5,: Evet,: Kiracılı,: Yok,: 80m2,: 2+1,4.400.000 TL,,: Hayır,,: 91296572,: 26 Ekim 20,: Satılık Daire,Istanbul
+422,,: 1,: 3,: 5+,: 2,: Hayır,,: Merkezi Sistem (Pay Ölçer),: 2,: Evet,: Kiracılı,: Diğer,: 50m2,: 1+1,1.850.000 TL,: Evet,: Hayır,,: 34211001,: 25 Kasım 20,: Satılık Daire,Istanbul
